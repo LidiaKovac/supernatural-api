@@ -19,37 +19,27 @@
 
   <body class="bg-dark">
     <nav class="navbar navbar-expand-lg bg-dark-subtle" data-bs-theme="dark">
-      <div class="d-flex px-5">
-        <a class="navbar-brand d-flex gap-2 align-items-center" href="/">
-          <img
-            src="./assets/logo.png"
-            class="h-100"
-            alt="Supernatural logo"
-          />The Supernatural API
-        </a>
-        <button
-          class="navbar-toggler"
-          type="button"
-          data-bs-toggle="collapse"
-          data-bs-target="#navbarSupportedContent"
-          aria-controls="navbarSupportedContent"
-          aria-expanded="false"
-          aria-label="Toggle navigation"
-        >
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-            <li class="nav-item">
-              <a class="nav-link" aria-current="page" href="/docs.html">Docs</a>
-            </li>
-          </ul>
-        </div>
+      <div class="px-5 container-fluid justify-content-center justify-content-md-between">
+          <a class="navbar-brand d-flex gap-2 align-items-center" href="./index.html">
+              <img src="./assets/logo.png" class="h-100" alt="Supernatural logo" />The Supernatural API
+          </a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+              data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+              aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                  <li class="nav-item">
+                      <a class="nav-link " aria-current="page" href="./docs.html">Docs</a>
+                  </li>
+              </ul>
+          </div>
       </div>
-    </nav>
+  </nav>
     <main class="text-light d-flex align-items-center h-100">
       <div class="row w-100">
-        <div class="col-2 bg-danger-subtle gx-0" id="sidebar">
+        <div class="col-2 d-none d-lg-block bg-danger-subtle gx-0" id="sidebar">
           <ul class="list-group position-sticky list-group-flush text-white">
             <a
               class="list-group-item ps-5 text-white border-0 bg-danger fw-bold"
@@ -85,8 +75,11 @@
             >
           </ul>
         </div>
-        <div class="col-10 py-5 px-4" id="docs">
-          <h1>The Supernatural API - The Docs</h1>
+        <div class="col-12 col-lg-10 py-5 px-4" id="docs">
+          
+          <h1><button class="btn btn-danger d-lg-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasExample" aria-controls="offcanvasExample">
+            <i class="bi bi-arrow-bar-right"></i>
+          </button> The Supernatural API - The Docs</h1>
           <p class="my-3">
             This is a <b> consumption-only API </b> — only the HTTP GET method
             is available on resources. It is NOT an official API for
@@ -180,6 +173,50 @@
                     </pre
             >
           </section>
+        </div>
+      </div>
+      
+      
+      <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
+        <div class="offcanvas-header">
+          <h5 class="offcanvas-title" id="offcanvasExampleLabel">The Supernatural API</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body p-0">
+          <ul class="list-group position-sticky list-group-flush text-white">
+            <a
+              class="list-group-item ps-5 text-white border-0 bg-danger fw-bold"
+              > About V1.0</a
+            >
+            <a
+              class="list-group-item option ps-5 text-white bg-transparent border-0"
+              onclick="activateTab(event)"
+              href="#"
+              > <i class="bi bi-house-fill"></i> Intro</a
+            >
+            <a
+              class="list-group-item option ps-5 text-white bg-transparent border-0"
+              onclick="activateTab(event)"
+              href="#kofi"
+              > <i class="bi bi-hearts"></i> Support</a
+            >
+            <a
+              class="list-group-item ps-5 text-white border-0 bg-danger fw-bold"
+              > Quotes</a
+            >
+            <a
+              class="list-group-item option ps-5 text-white bg-transparent active border-0"
+              onclick="activateTab(event)"
+              href="#all"
+              > <i class="bi bi-chat-dots"></i> <b> GET </b> all quotes</a
+            >
+            <a
+              class="list-group-item option ps-5 text-white bg-transparent border-0"
+              href="#random"
+              onclick="activateTab(event)"
+              > <i class="bi bi-chat-dots"></i> <b> GET </b> random quote</a
+            >
+          </ul>
         </div>
       </div>
     </main>
