@@ -24,6 +24,7 @@
     "image-downloader": "^4.3.0",
     "lowdb": "^6.0.1",
     "nodemon": "^2.0.22",
+    "string-similarity": "^4.0.4",
     "uniqid": "^5.4.0"
   }
 }
