@@ -35,22 +35,30 @@ charRouter.put("/connect", async (req, res, next) => {
       Object.keys(quote).forEach((key) => {
         Object.keys(quote[key]).forEach((line) => {
           if (line === "character") {
-            const name = quote[key][line]
-            const allchars = chars
-              .filter((pg) =>
-                pg.name.toLowerCase().includes(name.toLowerCase())
-              )
-              .map((pg) => pg.name)
-            if (allchars.length > 0) {
-              let { bestMatch: found } = stringSimilarity.findBestMatch(
-                name.toLowerCase(),
-                allchars
-              )
-              quote[key][line] = {
-                name,
-                id: chars.find(
-                  (pg) => pg.name.toLowerCase() === found.target.toLowerCase()
-                ).id,
+            let name = quote[key][line].name || quote[key][line]
+            if (quote[key][line].name != "") {
+              console.log(name.split("(")[0] + (name.split(")")[1] || ""))
+              const allchars = chars
+                .filter((pg) =>
+                  pg.name
+                    .toLowerCase()
+                    .includes(
+                      (name.split("(")[0] + (name.split(")")[1] || "")).toLowerCase()
+                    )
+                )
+                .map((pg) => pg.name.split("(")[0] + (pg.name.split(")")[1] || ""))
+              if (allchars.length > 0) {
+                let { bestMatch: found } = stringSimilarity.findBestMatch(
+                  name.split("(")[0] + (name.split(")")[1] || "").toLowerCase(),
+                  allchars
+                )
+                console.log(found);
+                quote[key][line] = {
+                  name,
+                  id: chars.find(
+                    (pg) => pg.name.toLowerCase() === found.target.trim().toLowerCase()
+                  ).id,
+                }
               }
             }
           }
@@ -58,7 +66,10 @@ charRouter.put("/connect", async (req, res, next) => {
       })
       return quote
     })
-    res.send(quotesWithIds)
+
+    db.data.quotes = quotesWithIds
+    db.write()
+    res.send(200)
   } catch (error) {
     next(error)
     console.log(error)
