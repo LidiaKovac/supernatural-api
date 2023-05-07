@@ -13,7 +13,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url))
 const file = join(__dirname, "./db.json")
 const adapter = new JSONFile(file)
 console.log(file)
-const defaultData = {quotes: [], characters: []}
+const defaultData = { quotes: [], characters: [] }
 export const db = new Low(adapter, defaultData)
 
 // Read data from JSON file, this will set db.data content
@@ -23,7 +23,7 @@ export const app = express()
 app.use(cors())
 app.use("/quotes", quotesRouter)
 app.use("/characters", charRouter)
-app.use(express.static("assets"))
+app.use(express.static("public"))
 
 db.read().then(() => {
   app.listen(process.env.PORT, () => {
