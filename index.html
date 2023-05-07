@@ -30,7 +30,7 @@
             </div>
         </div>
     </nav>
-    <main class="container text-light d-flex align-items-center h-100">
+    <main class="container text-light d-flex align-items-center justify-content-center h-100">
         <div class="row w-100 g-5 align-items-center h-100 ">
 
             <div class="col-lg-6 col-md-12 text-center">
@@ -39,40 +39,14 @@
                 <a class="btn btn-danger rounded-pill" href="./docs.html">Read the docs</a>
             </div>
             <div class="col-lg-6 col-md-12">
-                <nav>
-                    <div class="nav nav-tabs " id="nav-tab" role="tablist">
-                        <button class="nav-link active text-white " id="nav-example-tab" data-bs-toggle="tab"
-                            data-bs-target="#nav-example" type="button" role="tab" aria-controls="nav-example"
-                            aria-selected="true">Code</button>
-                        <button class="nav-link text-danger" id="nav-result-tab" data-bs-toggle="tab"
-                            data-bs-target="#nav-result" type="button" role="tab" aria-controls="nav-result"
-                            aria-selected="false">Result</button>
-                    </div>
-                </nav>
-                <div class="tab-content" id="nav-tabContent">
-                    <div class="tab-pane fade show active bg-danger-subtle" id="nav-example" role="tabpanel"
-                        aria-labelledby="nav-example-tab" tabindex="0">
-                        <pre> fetch("https://supernatural-quotes-api.cyclic.app/quotes/random")
-    .then((res)=> res.json())
-    .then((quote)=> console.log(quote))</pre>
-
-
-                    </div>
-                    <div class="tab-pane fade " id="nav-result" role="tabpanel" aria-labelledby="nav-result-tab"
-                        tabindex="0">
-                        <div class="spinner-border text-danger d-none"
-                            role="status">
-                            <span class="visually-hidden">Loading...</span>
-                        </div>
-                        <ul class="list-group list-group-flush" id="result">
-                        </ul>
+                <div class="card" id="result" style="width: 18rem;">
+                    <img src="http://www.supernaturalwiki.com/images/thumb/b/b0/DeanWinchester.png/350px-DeanWinchester.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Card title</h5>
+                        <p class="card-text">There was a Taylor Swift song on the bus that I hopped to the motel and I liked it, Sam. I liked it a lot.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
                     </div>
                 </div>
-
-                <button type="button" class="btn btn-danger rounded-pill"
-                    onclick=" activateTab(event, 'nav-result'); generateQuote();">Generate</button>
-                <!-- <button type="button" class="btn btn-danger disabled">Dean's quote</button>
-                <button type="button" class="btn btn-danger disabled">Sam's quote</button> -->
             </div>
         </div>
     </main>
@@ -82,10 +56,10 @@
     <script>
 
         window.onload = async () => {
-            await generateQuote()
+            // await generateQuote()
         }
         const toggleLoading = () => {
-            document.querySelector(".spinner-border").classList.toggle("d-none")
+            // document.querySelector(".spinner-border").classList.toggle("d-none")
         }
         const activateTab = (ev, id) => {
             document.querySelectorAll(".nav-tabs .nav-link").forEach(el => el.classList.remove("active"))
@@ -110,6 +84,8 @@
             }
             toggleLoading()
         }
+        const popoverTriggerList = document.querySelectorAll('[data-bs-toggle="popover"]')
+        const popoverList = [...popoverTriggerList].map(popoverTriggerEl => new bootstrap.Popover(popoverTriggerEl))
     </script>
 </body>
 

@@ -1,116 +1,85 @@
 <!DOCTYPE html>
 <html lang="en" data-bs-theme="dark">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Supernatural API</title>
-    <link
-      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css"
-      rel="stylesheet"
-      integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ"
-      crossorigin="anonymous"
-    />
-    <link
-      rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"
-    />
-    <link rel="stylesheet" href="./style/style.css" />
-  </head>
 
-  <body class="bg-dark">
-    <nav class="navbar navbar-expand-lg bg-dark-subtle" data-bs-theme="dark">
-      <div class="px-5 container-fluid justify-content-center justify-content-md-between">
-          <a class="navbar-brand d-flex gap-2 align-items-center" href="./index.html">
-              <img src="./assets/logo.png" class="h-100" alt="Supernatural logo" />The Supernatural API
-          </a>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
-              data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
-              aria-label="Toggle navigation">
-              <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse" id="navbarSupportedContent">
-              <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                  <li class="nav-item">
-                      <a class="nav-link " aria-current="page" href="./docs.html">Docs</a>
-                  </li>
-              </ul>
-          </div>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Supernatural API</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" />
+  <link rel="stylesheet" href="./style/style.css" />
+</head>
+
+<body class="bg-dark">
+  <nav class="navbar navbar-expand-lg bg-dark-subtle" data-bs-theme="dark">
+    <div class="px-5 container-fluid justify-content-center justify-content-md-between">
+      <a class="navbar-brand d-flex gap-2 align-items-center" href="./index.html">
+        <img src="./assets/logo.png" class="h-100" alt="Supernatural logo" />The Supernatural API
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link " aria-current="page" href="./docs.html">Docs</a>
+          </li>
+        </ul>
       </div>
+    </div>
   </nav>
-    <main class="text-light d-flex align-items-center h-100">
-      <div class="row w-100">
-        <div class="col-2 d-none d-lg-block bg-danger-subtle gx-0" id="sidebar">
-          <ul class="list-group position-sticky list-group-flush text-white">
-            <a
-              class="list-group-item ps-5 text-white border-0 bg-danger fw-bold"
-              > About V1.0</a
-            >
-            <a
-              class="list-group-item option ps-5 text-white bg-transparent border-0"
-              onclick="activateTab(event)"
-              href="#"
-              > <i class="bi bi-house-fill"></i> Intro</a
-            >
-            <a
-              class="list-group-item option ps-5 text-white bg-transparent border-0"
-              onclick="activateTab(event)"
-              href="#kofi"
-              > <i class="bi bi-hearts"></i> Support</a
-            >
-            <a
-              class="list-group-item ps-5 text-white border-0 bg-danger fw-bold"
-              > Quotes</a
-            >
-            <a
-              class="list-group-item option ps-5 text-white bg-transparent active border-0"
-              onclick="activateTab(event)"
-              href="#all"
-              > <i class="bi bi-chat-dots"></i> <b> GET </b> all quotes</a
-            >
-            <a
-              class="list-group-item option ps-5 text-white bg-transparent border-0"
-              href="#random"
-              onclick="activateTab(event)"
-              > <i class="bi bi-chat-dots"></i> <b> GET </b> random quote</a
-            >
-          </ul>
-        </div>
-        <div class="col-12 col-lg-10 py-5 px-4" id="docs">
-          
-          <h1><button class="btn btn-danger d-lg-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasExample" aria-controls="offcanvasExample">
+  <main class="text-light d-flex align-items-center h-100">
+    <div class="row w-100">
+      <div class="col-2 d-none d-lg-block bg-danger-subtle gx-0" id="sidebar">
+        <ul class="list-group position-sticky list-group-flush text-white">
+          <a class="list-group-item ps-5 text-white border-0 bg-danger fw-bold"> About V1.0</a>
+          <a class="list-group-item option ps-5 text-white bg-transparent border-0" onclick="activateTab(event)"
+            href="#"> <i class="bi bi-house-fill"></i> Intro</a>
+          <a class="list-group-item option ps-5 text-white bg-transparent border-0" onclick="activateTab(event)"
+            href="#kofi"> <i class="bi bi-hearts"></i> Support</a>
+          <a class="list-group-item ps-5 text-white border-0 bg-danger fw-bold"> Quotes</a>
+          <a class="list-group-item option ps-5 text-white bg-transparent active border-0" onclick="activateTab(event)"
+            href="#all"> <i class="bi bi-chat-dots"></i> <b> GET </b> all quotes</a>
+          <a class="list-group-item option ps-5 text-white bg-transparent border-0" href="#random"
+            onclick="activateTab(event)"> <i class="bi bi-chat-dots"></i> <b> GET </b> random quote</a>
+        </ul>
+      </div>
+      <div class="col-12 col-lg-10 py-5 px-4" id="docs">
+
+        <h1><button class="btn btn-danger d-lg-none" type="button" data-bs-toggle="offcanvas"
+            data-bs-target="#offcanvasExample" aria-controls="offcanvasExample">
             <i class="bi bi-arrow-bar-right"></i>
           </button> The Supernatural API - The Docs</h1>
-          <p class="my-3">
-            This is a <b> consumption-only API </b> — only the HTTP GET method
-            is available on resources. It is NOT an official API for
-            Supernatural nor this is endorsed by CW or WB. <br />
-            At this time, no authentication is required to access this API.
-            <br />
-            <br />
-            <b id="kofi">
-              Using this API is free of charge, but if you wanted to support its
-              development, feel free to buy the dev team a coffee!
-            </b>
-            <script
-              type="text/javascript"
-              src="https://storage.ko-fi.com/cdn/widget/Widget_2.js"
-            ></script>
-            <script type="text/javascript">
-              kofiwidget2.init("Support Me on Ko-fi", "#29abe0", "O5O1609AE")
-              kofiwidget2.draw()
-            </script>
-          </p>
-          <p>
-            <span class="badge text-bg-danger">SPOILER ALERT!</span> This API
-            features quotes from the original source as well as The Winchesters.
-          </p>
-          <h3 class="mt-2">Base endpoint:</h3>
-          <pre>https://supernatural-quotes-api.cyclic.app</pre>
-          <section id="all">
-            <h2><span class="badge text-bg-danger">GET</span> all quotes</h2>
-            <pre>/quotes/all</pre>
-            <h3>Example data:</h3>
-            <pre>
+        <p class="my-3">
+          This is a <b> consumption-only API </b> — only the HTTP GET method
+          is available on resources. It is NOT an official API for
+          Supernatural nor this is endorsed by CW or WB. <br />
+          At this time, no authentication is required to access this API.
+          <br />
+          <br />
+          <b id="kofi">
+            Using this API is free of charge, but if you wanted to support its
+            development, feel free to buy the dev team a coffee!
+          </b>
+          <script type="text/javascript" src="https://storage.ko-fi.com/cdn/widget/Widget_2.js"></script>
+          <script type="text/javascript">
+            kofiwidget2.init("Support Me on Ko-fi", "#29abe0", "O5O1609AE")
+            kofiwidget2.draw()
+          </script>
+        </p>
+        <p>
+          <span class="badge text-bg-danger">SPOILER ALERT!</span> This API
+          features quotes from the original source as well as The Winchesters.
+        </p>
+        <h3 class="mt-2">Base endpoint:</h3>
+        <pre>https://supernatural-quotes-api.cyclic.app</pre>
+        <section id="all">
+          <h2><span class="badge text-bg-danger">GET</span> all quotes</h2>
+          <pre>/quotes/all</pre>
+          <h3>Example data:</h3>
+          <pre>
 [
     {
         "line_0": {
@@ -138,16 +107,15 @@
     {...},
     {...},
 ]
-                    </pre
-            >
-          </section>
-          <section id="random">
-            <h2>
-              <span class="badge text-bg-danger">GET</span> a random quote
-            </h2>
-            <pre>/quotes/random</pre>
-            <h3>Example data:</h3>
-            <pre>
+                    </pre>
+        </section>
+        <section id="random">
+          <h2>
+            <span class="badge text-bg-danger">GET</span> a random quote
+          </h2>
+          <pre>/quotes/random</pre>
+          <h3>Example data:</h3>
+          <pre>
 {
     "line_0": {
         "character": "Castiel",
@@ -170,92 +138,130 @@
         "quote": " I just graduated from CSI."
     }
 }
-                    </pre
-            >
-          </section>
-        </div>
+                    </pre>
+        </section>
+        <section id="allchars">
+          <h2>
+            <span class="badge text-bg-danger">GET</span> all characters
+          </h2>
+          <pre>/characters/all</pre>
+          <h3>Example data:</h3>
+          <pre>
+[
+  {
+    "name": "Aaron Bass",
+    "actor": [
+      "Adam Rose"
+    ],
+    "episodes": [
+      "8.13 Everybody Hates Hitler",
+      "12.05 The One You've Been Waiting For"
+    ],
+    "occupation": [
+      "Judah Initiative"
+    ],
+    "id": "5441xkkd4lh9l02pk"
+  },
+  {...},
+  {...}
+]
+          </pre>
+        </section>
+
+        <section id="allchars">
+          <h2>
+            <span class="badge text-bg-danger">GET</span> character by id
+          </h2>
+          <pre>/characters/:id</pre>
+          <h3>Example data:</h3>
+          <pre>
+{
+  "name": "Abaddon",
+  "actor": [
+    "Alaina Huffman",
+    "Sharon Bell",
+    "Anna Galvin",
+    "Marilyn Norry"
+  ],
+  "episodes": [
+    "8.12 As Time Goes By",
+    "8.22 Clip Show",
+    "8.23 Sacrifice",
+    "9.02 Devil May Care",
+    "9.06 Heaven Can't Wait",
+    "9.10 Road Trip",
+    "9.11 First Born",
+    "9.17 Mother's Little Helper",
+    "9.21 King of the Damned"
+  ],
+  "occupation": [
+    "Demon",
+    "Knight of Hell"
+  ],
+  "id": "5441xkkd4lh9l03fi"
+}
+          </pre>
+        </section>
       </div>
-      
-      
-      <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
-        <div class="offcanvas-header">
-          <h5 class="offcanvas-title" id="offcanvasExampleLabel">The Supernatural API</h5>
-          <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-        </div>
-        <div class="offcanvas-body p-0">
-          <ul class="list-group position-sticky list-group-flush text-white">
-            <a
-              class="list-group-item ps-5 text-white border-0 bg-danger fw-bold"
-              > About V1.0</a
-            >
-            <a
-              class="list-group-item option ps-5 text-white bg-transparent border-0"
-              onclick="activateTab(event)"
-              href="#"
-              > <i class="bi bi-house-fill"></i> Intro</a
-            >
-            <a
-              class="list-group-item option ps-5 text-white bg-transparent border-0"
-              onclick="activateTab(event)"
-              href="#kofi"
-              > <i class="bi bi-hearts"></i> Support</a
-            >
-            <a
-              class="list-group-item ps-5 text-white border-0 bg-danger fw-bold"
-              > Quotes</a
-            >
-            <a
-              class="list-group-item option ps-5 text-white bg-transparent active border-0"
-              onclick="activateTab(event)"
-              href="#all"
-              > <i class="bi bi-chat-dots"></i> <b> GET </b> all quotes</a
-            >
-            <a
-              class="list-group-item option ps-5 text-white bg-transparent border-0"
-              href="#random"
-              onclick="activateTab(event)"
-              > <i class="bi bi-chat-dots"></i> <b> GET </b> random quote</a
-            >
-          </ul>
-        </div>
+    </div>
+
+
+    <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
+      <div class="offcanvas-header">
+        <h5 class="offcanvas-title" id="offcanvasExampleLabel">The Supernatural API</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
       </div>
-    </main>
-    <script
-      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"
-      integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe"
-      crossorigin="anonymous"
-    ></script>
-    <script>
-      window.onload = async () => {
-        await generateQuote()
-      }
-      const toggleLoading = () => {
-        document.querySelector(".spinner-border").classList.toggle("d-none")
-      }
-      const activateTab = (ev) => {
-        document
-          .querySelectorAll(".list-group-item.option")
-          .forEach((el) => el.classList.remove("active"))
-        ev.target.classList.add("active")
-      }
-      const generateQuote = async () => {
-        const quoteSpace = document.querySelector("#result")
-        quoteSpace.innerHTML = ""
-        toggleLoading()
-        const res = await fetch(
-          "https://supernatural-quotes-api.cyclic.app/quotes/random"
-        )
-        const quote = await res.json()
-        let counter = 0
-        for (const key in quote) {
-          counter++
-          if (Object.hasOwnProperty.call(quote, key)) {
-            quoteSpace.innerHTML += ` <li class="list-group-item"> <strong> ${quote[key].character}: </strong> ${quote[key].quote} </li>
+      <div class="offcanvas-body p-0">
+        <ul class="list-group position-sticky list-group-flush text-white">
+          <a class="list-group-item ps-5 text-white border-0 bg-danger fw-bold"> About V1.0</a>
+          <a class="list-group-item option ps-5 text-white bg-transparent border-0" onclick="activateTab(event)"
+            href="#"> <i class="bi bi-house-fill"></i> Intro</a>
+          <a class="list-group-item option ps-5 text-white bg-transparent border-0" onclick="activateTab(event)"
+            href="#kofi"> <i class="bi bi-hearts"></i> Support</a>
+          <a class="list-group-item ps-5 text-white border-0 bg-danger fw-bold"> Quotes</a>
+          <a class="list-group-item option ps-5 text-white bg-transparent active border-0" onclick="activateTab(event)"
+            href="#all"> <i class="bi bi-chat-dots"></i> <b> GET </b> all quotes</a>
+          <a class="list-group-item option ps-5 text-white bg-transparent border-0" href="#random"
+            onclick="activateTab(event)"> <i class="bi bi-chat-dots"></i> <b> GET </b> random quote</a>
+        </ul>
+      </div>
+    </div>
+  </main>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe"
+    crossorigin="anonymous"></script>
+  <script>
+    window.onload = async () => {
+      await generateQuote()
+    }
+    const toggleLoading = () => {
+      document.querySelector(".spinner-border").classList.toggle("d-none")
+    }
+    const activateTab = (ev) => {
+      document
+        .querySelectorAll(".list-group-item.option")
+        .forEach((el) => el.classList.remove("active"))
+      ev.target.classList.add("active")
+    }
+    const generateQuote = async () => {
+      const quoteSpace = document.querySelector("#result")
+      quoteSpace.innerHTML = ""
+      toggleLoading()
+      const res = await fetch(
+        "https://supernatural-quotes-api.cyclic.app/quotes/random"
+      )
+      const quote = await res.json()
+      let counter = 0
+      for (const key in quote) {
+        counter++
+        if (Object.hasOwnProperty.call(quote, key)) {
+          quoteSpace.innerHTML += ` <li class="list-group-item"> <strong> ${quote[key].character}: </strong> ${quote[key].quote} </li>
                             `
-          }
         }
-        toggleLoading()
       }
-    </script>
-  </body>
+      toggleLoading()
+    }
+  </script>
+</body>
+
 </html>
