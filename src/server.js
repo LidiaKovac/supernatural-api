@@ -23,7 +23,6 @@ export const app = express()
 app.use(cors())
 app.use("/quotes", quotesRouter)
 app.use("/characters", charRouter)
-console.log("ok")
 
 db.read().then(() => {
   app.listen(process.env.PORT, () => {
