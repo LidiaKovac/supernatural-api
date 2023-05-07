@@ -23,6 +23,7 @@ export const app = express()
 app.use(cors())
 app.use("/quotes", quotesRouter)
 app.use("/characters", charRouter)
+app.use(express.static("assets"))
 
 db.read().then(() => {
   app.listen(process.env.PORT, () => {
