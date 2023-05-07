@@ -7,12 +7,13 @@ import { JSONFile } from "lowdb/node"
 import cors from "cors"
 import { quotesRouter } from "./services/quotes/index.js"
 import { config } from "dotenv"
+import { charRouter } from "./services/chars/index.js"
 config()
 const __dirname = dirname(fileURLToPath(import.meta.url))
-const file = join(__dirname, "/quotes.json")
+const file = join(__dirname, "./db.json")
 const adapter = new JSONFile(file)
 console.log(file)
-const defaultData = []
+const defaultData = {quotes: [], characters: []}
 export const db = new Low(adapter, defaultData)
 
 // Read data from JSON file, this will set db.data content
@@ -21,6 +22,7 @@ export const db = new Low(adapter, defaultData)
 export const app = express()
 app.use(cors())
 app.use("/quotes", quotesRouter)
+app.use("/characters", charRouter)
 
 db.read().then(() => {
   app.listen(process.env.PORT, () => {

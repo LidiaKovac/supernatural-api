@@ -5,7 +5,7 @@ export const quotesRouter = Router()
 
 quotesRouter.get("/all", async (req, res, next) => {
   try {
-    const data = await db.data
+    const data = await db.data.quotes
     res.send(data)
   } catch (error) {
     next(error)
@@ -15,9 +15,8 @@ quotesRouter.get("/all", async (req, res, next) => {
 
 quotesRouter.get("/random", async (req, res, next) => {
   try {
-    const data = await db.data
+    const data = await db.data.quotes
     const random = Math.floor(Math.random() * data.length)
-    console.log(data[random])
     res.send(data[random])
   } catch (error) {
     next(error)
