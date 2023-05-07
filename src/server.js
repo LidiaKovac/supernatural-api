@@ -21,9 +21,9 @@ export const db = new Low(adapter, defaultData)
 // await db.read()
 export const app = express()
 app.use(cors())
+app.use(express.static("public"))
 app.use("/quotes", quotesRouter)
 app.use("/characters", charRouter)
-app.use(express.static("public"))
 
 db.read().then(() => {
   app.listen(process.env.PORT, () => {
