@@ -12,7 +12,6 @@ config()
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const file = join(__dirname, "./db.json")
 const adapter = new JSONFile(file)
-console.log(file)
 const defaultData = { quotes: [], characters: [] }
 export const db = new Low(adapter, defaultData)
 
