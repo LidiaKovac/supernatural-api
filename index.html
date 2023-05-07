@@ -7,6 +7,7 @@
     <title>Supernatural API</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
     <link rel="stylesheet" href="./style/style.css" />
 </head>
 
@@ -32,21 +33,21 @@
     </nav>
     <main class="container text-light d-flex align-items-center justify-content-center h-100">
         <div class="row w-100 g-5 align-items-center h-100 ">
-
+            <div class="spinner-border text-danger d-none" role="status">
+                <span class="visually-hidden">Loading...</span>
+            </div>
             <div class="col-lg-6 col-md-12 text-center">
                 <h1 class="display-5 text-center mb-4">The <span class="display-1 fw-bold text-danger"> Supernatural
                     </span>Quotes API </h1>
-                <a class="btn btn-danger rounded-pill" href="./docs.html">Read the docs</a>
+                <a class="btn btn-danger rounded-pill" href="./docs.html">Read the docs <i
+                        class="bi bi-arrow-right"></i></a>
             </div>
             <div class="col-lg-6 col-md-12">
-                <div class="card" id="result" style="width: 18rem;">
-                    <img src="http://www.supernaturalwiki.com/images/thumb/b/b0/DeanWinchester.png/350px-DeanWinchester.png" class="card-img-top" alt="...">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">There was a Taylor Swift song on the bus that I hopped to the motel and I liked it, Sam. I liked it a lot.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
-                    </div>
-                </div>
+                <pre>
+fetch("https://supernatural-quotes-api.cyclic.app/<span class="text-danger">quotes/random</span>")
+    .then(res => res.json())
+    .then(data => console.log(data))
+                </pre>
             </div>
         </div>
     </main>
@@ -56,10 +57,28 @@
     <script>
 
         window.onload = async () => {
-            // await generateQuote()
+            writeUrl()
         }
         const toggleLoading = () => {
             // document.querySelector(".spinner-border").classList.toggle("d-none")
+        }
+        function sleep(ms) {
+            return new Promise((r) => setTimeout(r, ms));
+        }
+        async function typewriteAdd(txt, el) {
+            const times = [100, 154, 113, 167, 200, 184]
+            el.innerText = "";
+            for (const char of txt) {
+                el.textContent += char;
+                await sleep(times[Math.floor(Math.random() * times.length)] || 100);
+            }
+        }
+
+        async function typewriteRemove(txt, el) {
+            for (const char of txt) {
+                el.textContent = el.textContent.slice(0, -1);
+                await sleep(100);
+            }
         }
         const activateTab = (ev, id) => {
             document.querySelectorAll(".nav-tabs .nav-link").forEach(el => el.classList.remove("active"))
@@ -67,22 +86,39 @@
             document.querySelector("#" + id).classList.add("active", "show")
             document.querySelector("#" + id + "-tab").classList.add("active")
         }
+        const writeUrl = async (phrase) => {
+            const endpoints = ["quotes/random", "quotes/all", "characters/all", "characters/:id"]
+            const tail = document.querySelector("pre span")
+            let i = 0
+            while (true) {
+                await typewriteAdd(endpoints[i], tail)
+                await sleep(1000)
+                await typewriteRemove(endpoints[i], tail)
+                await sleep(1000)
+                i = Math.floor(Math.random() * endpoints.length)
+            }
+
+        }
+
         const generateQuote = async () => {
-            const quoteSpace = document.querySelector("#result")
-            quoteSpace.innerHTML = ""
-            toggleLoading()
+
             const res = await fetch("https://supernatural-quotes-api.cyclic.app/quotes/random")
             const quote = await res.json()
-            let counter = 0
+            const kps = 10
+            const phrase = document.querySelector("#result .card-text")
+
             for (const key in quote) {
-                counter++
                 if (Object.hasOwnProperty.call(quote, key)) {
-                    quoteSpace.innerHTML += ` <li class="list-group-item"> <strong> ${quote[key].character}: </strong> ${quote[key].quote} </li>
-                            `
+                    let y = 0
+                    console.log(y);
+                    const htmlToAdd = `<strong> ${quote[key].character}: </strong> ${quote[key].quote}`
+
+
 
                 }
             }
-            toggleLoading()
+
+
         }
         const popoverTriggerList = document.querySelectorAll('[data-bs-toggle="popover"]')
         const popoverList = [...popoverTriggerList].map(popoverTriggerEl => new bootstrap.Popover(popoverTriggerEl))
