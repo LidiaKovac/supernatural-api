@@ -23,3 +23,31 @@ charRouter.get("/:id", async (req, res, next) => {
     console.error(error)
   }
 })
+
+
+charRouter.put("/connect", async(req,res,next) => {
+  try {
+    const chars = await db.data.characters
+    const quotes = await db.data.quotes
+
+    const quotesWithIds = quotes.map(quote => {
+      Object.keys(quote).forEach(key => {
+        Object.keys(quote[key]).forEach(line => {
+          console.log(line);
+          if(line === "character") {
+            const name = quote[key][line]
+            console.log(chars[0]);
+            quote[key][line] = {
+              name,
+              id: chars.find(pg => pg.name.toLowerCase() === name.toLowerCase())
+            }
+          }
+        })
+      })
+      return quote
+    })
+  } catch (error) {
+    next(error)
+    console.log(error);
+  }
+})
