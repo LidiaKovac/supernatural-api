@@ -1,28 +1,48 @@
 import { Router } from "express"
 import { db } from "../../server.js"
 import stringSimilarity from "string-similarity"
+import { paginate } from "../../utils/index.js"
 export const charRouter = Router()
 
 charRouter.get("/all", async (req, res, next) => {
   try {
     console.log(req.query)
     // const props = ["name", "img", "actor", "episodes", "occupation"]
-    const keys = Object.keys(req.query)
     const data = await db.data.characters
-    const result = []
+    let result = []
 
     for (const char of data) {
       if (
         char.name.toLowerCase().includes(req.query.name?.toLowerCase() || "") &&
-        char.actor?.join()?.toLowerCase().includes(req.query.actor?.toLowerCase()  || "") && 
-        char.episodes.join()?.toLowerCase().includes(req.query.episodes?.toLowerCase()  || "") && 
-        char.occupation.join()?.toLowerCase().includes(req.query.occupation?.toLowerCase()  || "")
+        char.actor
+          ?.join()
+          ?.toLowerCase()
+          .includes(req.query.actor?.toLowerCase() || "") &&
+        char.episodes
+          .join()
+          ?.toLowerCase()
+          .includes(req.query.episodes?.toLowerCase() || "") &&
+        char.occupation
+          .join()
+          ?.toLowerCase()
+          .includes(req.query.occupation?.toLowerCase() || "")
       ) {
         result.push(char)
       }
     }
-
-    res.send(result)
+    result = paginate(result, req.query.page || 1, req.query.size || 10)
+    res.send({
+      data: result,
+      next:
+        "https://supernatural-quotes-api.cyclic.app/characters/all?page=" +
+        (isNaN((Number(req.query.page) + 1)) ? 2 : (Number(req.query.page) + 1)),
+      prev:
+        Number(req.query.page) > 1
+          ? "https://supernatural-quotes-api.cyclic.app/characters/all?page=" +
+          (Number(req.query.page) - 1)
+          : null,
+      count: data.length,
+    })
   } catch (error) {
     next(error)
     console.error(error)
