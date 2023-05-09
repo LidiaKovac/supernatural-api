@@ -19195,5 +19195,5644 @@
       ],
       "id": "5441xkkfwlhdvn0u7"
     }
-  ]
+  ],
+  "creatures": [
+    {
+        "name": "Agent Valente",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Valenteslashfiction.png",
+        "actor": [
+            "Morgan David Jones"
+        ],
+        "episodes": [
+            "7.06 Slash Fiction"
+        ],
+        "occupation": [
+            "Leviathan",
+            "FBI agent"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg83sje"
+    },
+    {
+        "name": "Ajay",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Ajay.jpg",
+        "actor": [
+            "Assaf Cohen"
+        ],
+        "episodes": [
+            "8.19 Taxi Driver"
+        ],
+        "occupation": [
+            "reaper"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg83t1q"
+    },
+    {
+        "name": "Akrida",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Akrida.png",
+        "actor": [],
+        "episodes": [
+            "1.01 Pilot (The Winchesters)",
+            "1.02 Teach Your Children Well",
+            "1.03 You're Lost Little Girl",
+            "1.05 Legend of a Mind",
+            "1.07 Reflections",
+            "1.13 Hey, That’s No Way to Say Goodbye"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Ostium",
+            "Soul-powered magic",
+            "Otherworldly objects"
+        ],
+        "appearance": [],
+        "powers": [
+            "Mind control",
+            "Possession"
+        ],
+        "id": "5441xklrclhg83tv6"
+    },
+    {
+        "name": "Alonso",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Alonso.jpg",
+        "actor": [
+            "Joseph Julian Soria"
+        ],
+        "episodes": [
+            "9.13 The Purge"
+        ],
+        "occupation": [
+            "Pishtaco",
+            "Cafeteria worker"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg83ud1"
+    },
+    {
+        "name": "Alpha Shapeshifter",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/AlphaShapeshifter-2.gif",
+        "actor": [
+            "Mitch Pileggi",
+            "Jared Padalecki",
+            "Jensen Ackles",
+            "Mark Sheppard"
+        ],
+        "episodes": [
+            "6.02 Two and a Half Men",
+            "6.10 Caged Heat"
+        ],
+        "occupation": [
+            "Alpha",
+            "Shapeshifter"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg83ww8"
+    },
+    {
+        "name": "Alpha Vampire",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-AlphaVamp.jpg",
+        "actor": [
+            "Rick Worthy"
+        ],
+        "episodes": [
+            "6.05 Live Free or Twihard",
+            "6.07 Family Matters",
+            "7.22 There Will Be Blood",
+            "12.14 The Raid"
+        ],
+        "occupation": [
+            "Alpha",
+            "Vampire"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg83xem"
+    },
+    {
+        "name": "Amazons",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Amazonemma.jpg",
+        "actor": [],
+        "episodes": [
+            "7.13 The Slice Girls"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Mortality"
+        ],
+        "appearance": [
+            "Female humanoid"
+        ],
+        "powers": [
+            "Superhuman strength"
+        ],
+        "id": "5441xklrclhg83xwt"
+    },
+    {
+        "name": "Amy Pond",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Amy_Pond.png",
+        "actor": [
+            "Jewel Staite",
+            "Emma Grabinsky"
+        ],
+        "episodes": [
+            "7.03 The Girl Next Door"
+        ],
+        "occupation": [
+            "Kitsune",
+            "Mortician"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg83yro"
+    },
+    {
+        "name": "Andrea Kormos",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-805andrea.jpg",
+        "actor": [
+            "Athena Karkanis"
+        ],
+        "episodes": [
+            "8.05 Blood Brother"
+        ],
+        "occupation": [
+            "Vampire"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg83zb0"
+    },
+    {
+        "name": "Andrew Silver",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-AndrewSilver.png",
+        "actor": [
+            "Jeremy Thorsen"
+        ],
+        "episodes": [
+            "10.13 Halt &amp; Catch Fire"
+        ],
+        "occupation": [
+            "Vengeful Spirit"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg84092"
+    },
+    {
+        "name": "Andy May",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-AndyMay.png",
+        "actor": [
+            "Markian Tarasiuk"
+        ],
+        "episodes": [
+            "15.05 Proverbs 17:3"
+        ],
+        "occupation": [
+            "Werewolf"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg8416t"
+    },
+    {
+        "name": "Angela Mason",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-AMason.jpg",
+        "actor": [
+            "Tamara Feldman"
+        ],
+        "episodes": [
+            "2.04 Children Shouldn't Play with Dead Things"
+        ],
+        "occupation": [
+            "Zombie"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg841ov"
+    },
+    {
+        "name": "Angiak",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg842db"
+    },
+    {
+        "name": "Annie",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Annietheleviathan.png",
+        "actor": [
+            "Olivia Steele-Falconer"
+        ],
+        "episodes": [
+            "7.02 Hello, Cruel World"
+        ],
+        "occupation": [
+            "Leviathan"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg843ap"
+    },
+    {
+        "name": "Annie Hawkins",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-AnnieHawkins.jpg",
+        "actor": [
+            "Jamie Luner"
+        ],
+        "episodes": [
+            "7.19 Of Grave Importance"
+        ],
+        "occupation": [
+            "Hunter"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg843wd"
+    },
+    {
+        "name": "April Kelly",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-April_Kelly.jpg",
+        "actor": [
+            "Shannon Lucio"
+        ],
+        "episodes": [
+            "9.03 I'm No Angel"
+        ],
+        "occupation": [
+            "Reaper"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg844en"
+    },
+    {
+        "name": "Arachne",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Archane.jpg",
+        "actor": [],
+        "episodes": [
+            "6.13 Unforgiven"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Decapitation"
+        ],
+        "appearance": [
+            "Humanoid with mottled skin and double irised-eyes"
+        ],
+        "powers": [
+            "Infectious bite",
+            "Invulnerability"
+        ],
+        "id": "5441xklrclhg844xe"
+    },
+    {
+        "name": "Baba Yaga",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-BabaYaga.png",
+        "actor": [],
+        "episodes": [
+            "15.16 Drag Me Away (From You)"
+        ],
+        "occupation": [
+            "Witch"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg845qd"
+    },
+    {
+        "name": "Banshee",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Banshee.png",
+        "actor": [],
+        "episodes": [
+            "11.11 Into the Mystic"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Celtic sigil trap",
+            "Gold blade"
+        ],
+        "appearance": [
+            "Female with dark flowing hair, pale skin, and sunken eyes that is dressed in blood-red robes."
+        ],
+        "powers": [
+            "Telekinesis",
+            "Piercing scream"
+        ],
+        "id": "5441xklrclhg84797"
+    },
+    {
+        "name": "Barry Papazian",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-BarryP.jpg",
+        "actor": [
+            "Alec Willows"
+        ],
+        "episodes": [
+            "2.02 Everybody Loves a Clown"
+        ],
+        "occupation": [
+            "Rakshasa",
+            "Knife thrower"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg847ro"
+    },
+    {
+        "name": "Beau (Vampire)",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Beau-Vampire.jpg",
+        "actor": [
+            "Dominic Zamprogna"
+        ],
+        "episodes": [
+            "1.20 Dead Man's Blood"
+        ],
+        "occupation": [
+            "Vampire"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg8489s"
+    },
+    {
+        "name": "Benny Lafitte",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Benny809.jpg",
+        "actor": [
+            "Ty Olsson"
+        ],
+        "episodes": [
+            "8.01 We Need to Talk About Kevin",
+            "8.02 What's Up, Tiger Mommy?",
+            "8.05 Blood Brother",
+            "8.07 A Little Slice of Kevin",
+            "8.09 Citizen Fang",
+            "8.10 Torn and Frayed",
+            "8.19 Taxi Driver",
+            "10.19 The Werther Project",
+            "15.04 Atomic Monsters"
+        ],
+        "occupation": [
+            "Vampire"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg848s9"
+    },
+    {
+        "name": "Benny%27s Maker",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-805maker.jpg",
+        "actor": [
+            "Patrick Stafford"
+        ],
+        "episodes": [
+            "8.05 Blood Brother"
+        ],
+        "occupation": [
+            "Vampire"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg849aj"
+    },
+    {
+        "name": "Bess Fitzgerald",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-BessMyers.jpg",
+        "actor": [
+            "Sarah Smyth"
+        ],
+        "episodes": [
+            "9.12 Sharp Teeth",
+            "15.10 The Heroes' Journey"
+        ],
+        "occupation": [
+            "Werewolf"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg849sl"
+    },
+    {
+        "name": "Betty",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Betty.png",
+        "actor": [
+            "Kimberly Sustad"
+        ],
+        "episodes": [
+            "15.19 Inherit the Earth"
+        ],
+        "occupation": [
+            "Reaper",
+            "Death"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg84als"
+    },
+    {
+        "name": "Billie",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Billie-Death.jpg",
+        "actor": [
+            "Lisa Berry"
+        ],
+        "episodes": [
+            "11.02 Form and Void",
+            "11.10 The Devil in the Details",
+            "11.17 Red Meat",
+            "11.23 Alpha and Omega",
+            "12.06 Celebrating the Life of Asa Fox",
+            "12.09 First Blood",
+            "13.05 Advanced Thanatology",
+            "13.19 Funeralia",
+            "14.10 Nihilism",
+            "14.20 Moriah",
+            "15.09 The Trap"
+        ],
+        "occupation": [
+            "Death",
+            "Reaper"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg84b80"
+    },
+    {
+        "name": "Billy Whitman",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-BillyWhitman.png",
+        "actor": [
+            "Burkely Duffield"
+        ],
+        "episodes": [
+            "15.04 Atomic Monsters"
+        ],
+        "occupation": [
+            "Vampire",
+            "Student"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg84c1r"
+    },
+    {
+        "name": "Bisaan",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Bisaan.png",
+        "actor": [],
+        "episodes": [
+            "11.19 The Chitters"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Decapitation, fire"
+        ],
+        "appearance": [
+            "When occupying a human host they have green eyes, pale skin, pointed teeth, and no genitals."
+        ],
+        "powers": [
+            "Possession"
+        ],
+        "id": "5441xklrclhg84cy9"
+    },
+    {
+        "name": "Black Dog",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg84dmv"
+    },
+    {
+        "name": "Bobby John",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-BobbyJohn.jpg",
+        "actor": [],
+        "episodes": [
+            "6.02 Two and a Half Men"
+        ],
+        "occupation": [
+            "Shapeshifter"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg84e8s"
+    },
+    {
+        "name": "Bobby%27s Reaper",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Bobby's_Reaper.jpg",
+        "actor": [
+            "Henri Lubatti"
+        ],
+        "episodes": [
+            "7.10 Death's Door"
+        ],
+        "occupation": [
+            "Reaper"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg84eqy"
+    },
+    {
+        "name": "Bori Baba",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-BoriBaba.png",
+        "actor": [],
+        "episodes": [
+            "1.03 You're Lost Little Girl"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Decapitation"
+        ],
+        "appearance": [
+            "Humanoid"
+        ],
+        "powers": [
+            "Invulnerability"
+        ],
+        "id": "5441xklrclhg84fnp"
+    },
+    {
+        "name": "Boris",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/Boris.jpg",
+        "actor": [
+            "Joseph D. Reitman"
+        ],
+        "episodes": [
+            "6.05 Live Free or Twihard"
+        ],
+        "occupation": [
+            "Vampire"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg84ga0"
+    },
+    {
+        "name": "Brad Myers",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [
+            "Jesse Hutch"
+        ],
+        "episodes": [
+            "15.10 The Heroes' Journey"
+        ],
+        "occupation": [
+            "Werewolf"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg84gz6"
+    },
+    {
+        "name": "Brian Wilcox",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Brian804.jpg",
+        "actor": [
+            "Leigh Parker"
+        ],
+        "episodes": [
+            "8.04 Bitten"
+        ],
+        "occupation": [
+            "Werewolf",
+            "Student"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg84hh2"
+    },
+    {
+        "name": "Brigitta",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-BrigettaDjinn.jpg",
+        "actor": [
+            "Laura Mennell"
+        ],
+        "episodes": [
+            "6.01 Exile on Main St.",
+            "6.10 Caged Heat"
+        ],
+        "occupation": [
+            "Djinn"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg84hz3"
+    },
+    {
+        "name": "Buddy",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Buddy.png",
+        "actor": [
+            "Niall Matter"
+        ],
+        "episodes": [
+            "13.04 The Big Empty"
+        ],
+        "occupation": [
+            "Shapeshifter"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg84irs"
+    },
+    {
+        "name": "Buruburu",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Buruburu.jpg",
+        "actor": [],
+        "episodes": [
+            "4.06 Yellow Fever"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Iron",
+            "Salt"
+        ],
+        "appearance": [
+            "Varies; takes the form of the deceased, which may have visible signs of trauma or decay."
+        ],
+        "powers": [
+            "Ghost Sickness",
+            "Teleportation"
+        ],
+        "id": "5441xklrclhg84jdu"
+    },
+    {
+        "name": "Callie",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/YoungCallie.jpg",
+        "actor": [
+            "Ava Rebecca Hughes",
+            "Tracy Froese"
+        ],
+        "episodes": [
+            "3.05 Bedtime Stories"
+        ],
+        "occupation": [
+            "Vengeful Spirit"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg84jzh"
+    },
+    {
+        "name": "Candy",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Candy.jpg",
+        "actor": [
+            "Lina Roessler"
+        ],
+        "episodes": [
+            "9.14 Captives"
+        ],
+        "occupation": [
+            "Ghost"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg84kh5"
+    },
+    {
+        "name": "Canids",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-MandibleMouth.png",
+        "actor": [],
+        "episodes": [
+            "13.10 Wayward Sisters",
+            "15.12 Galaxy Brain"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Any method of killing."
+        ],
+        "appearance": [
+            "Humaniod with pale, slimy skin, glowing red eyes and a beaked mandible mouth."
+        ],
+        "powers": [
+            "Speed, strength and quick reflexes"
+        ],
+        "id": "5441xklrclhg84ldk"
+    },
+    {
+        "name": "Celia",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Mama.png",
+        "actor": [
+            "Ashley Crow"
+        ],
+        "episodes": [
+            "9.19 Alex Annie Alexis Ann"
+        ],
+        "occupation": [
+            "Vampire"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg84ma5"
+    },
+    {
+        "name": "Changeling",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-ChangelingMother.jpg",
+        "actor": [],
+        "episodes": [
+            "3.02 The Kids Are Alright",
+            "9.13 The Purge"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Mirrors",
+            "Fire"
+        ],
+        "appearance": [
+            "Humanoid with discolored, slimy skin, hollow eyes, and a round mouth with many teeth. Can appear human."
+        ],
+        "powers": [
+            "Shapeshifting",
+            "Super strength"
+        ],
+        "id": "5441xklrclhg84msh"
+    },
+    {
+        "name": "Chester Johnson",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-ChesterJohnson.png",
+        "actor": [
+            "Adrian Glynn McMorran"
+        ],
+        "episodes": [
+            "11.07 Plush"
+        ],
+        "occupation": [
+            "Vengeful Spirit",
+            "Children's Entertainer"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg84nl8"
+    },
+    {
+        "name": "Chet",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/LeviChet.jpg",
+        "actor": [
+            "Sean Owen Roberts",
+            "Jim Beaver"
+        ],
+        "episodes": [
+            "7.03 The Girl Next Door",
+            "7.05 Shut Up, Dr. Phil",
+            "7.06 Slash Fiction"
+        ],
+        "occupation": [
+            "Leviathan"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg84o7q"
+    },
+    {
+        "name": "Chupacabra",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg84ow5"
+    },
+    {
+        "name": "Claire Becker",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-ClaireBecker.jpg",
+        "actor": [
+            "Shannon Powell"
+        ],
+        "episodes": [
+            "2.07 The Usual Suspects"
+        ],
+        "occupation": [
+            "Ghost",
+            "Death Omen"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg84pei"
+    },
+    {
+        "name": "Clark Adams",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Clark_Adams.jpg",
+        "actor": [
+            "Tom O'Brien"
+        ],
+        "episodes": [
+            "3.14 Long-Distance Call"
+        ],
+        "occupation": [
+            "Crocotta",
+            "Phone company supervisor"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg84pwq"
+    },
+    {
+        "name": "Clowns",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg84ql9"
+    },
+    {
+        "name": "Cody",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Cody.png",
+        "actor": [
+            "Jarrett Knowles"
+        ],
+        "episodes": [
+            "9.19 Alex Annie Alexis Ann"
+        ],
+        "occupation": [
+            "Vampire"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg84rid"
+    },
+    {
+        "name": "Cole Griffith",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-ColeGriffith.jpg",
+        "actor": [
+            "Alexander Gould"
+        ],
+        "episodes": [
+            "4.15 Death Takes a Holiday"
+        ],
+        "occupation": [
+            "Ghost"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg84s00"
+    },
+    {
+        "name": "Connor",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Connor.png",
+        "actor": [
+            "Reilly Dolman"
+        ],
+        "episodes": [
+            "9.19 Alex Annie Alexis Ann"
+        ],
+        "occupation": [
+            "Vampire"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg84st9"
+    },
+    {
+        "name": "Constance Welch",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Constance_Welch.png",
+        "actor": [
+            "Sarah Shahi",
+            "Shanae Tomasevich"
+        ],
+        "episodes": [
+            "1.01 Pilot",
+            "14.20 Moriah",
+            "15.01 Back and to the Future"
+        ],
+        "occupation": [
+            "Ghost",
+            "Woman in White"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg84tn1"
+    },
+    {
+        "name": "Corbin Tilghman",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-CorbinTilghman.png",
+        "actor": [
+            "Blair Penner"
+        ],
+        "episodes": [
+            "11.17 Red Meat"
+        ],
+        "occupation": [
+            "Werewolf"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg84ufx"
+    },
+    {
+        "name": "Cosmic Entity",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-CosmicEntity.png",
+        "actor": [
+            "Misha Collins",
+            "Erica Cerra",
+            "Rachel Miner"
+        ],
+        "episodes": [
+            "13.04 The Big Empty",
+            "14.08 Byzantium",
+            "14.20 Moriah",
+            "15.13 Destiny's Child",
+            "15.17 Unity",
+            "15.18 Despair"
+        ],
+        "occupation": [
+            "Cosmic Entity"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg84v4y"
+    },
+    {
+        "name": "Croatoan",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg84vtp"
+    },
+    {
+        "name": "Crocotta",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Crocotta.jpg",
+        "actor": [],
+        "episodes": [
+            "3.14 Long-Distance Call"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Impalement through the spine"
+        ],
+        "appearance": [
+            "Has large, sharp teeth and can unhinge its jaw. Can appear human."
+        ],
+        "powers": [
+            "Technokinesis",
+            "Voice mimicry"
+        ],
+        "id": "5441xklrclhg84wcm"
+    },
+    {
+        "name": "Cutty",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Cutty.png",
+        "actor": [
+            "Danny Dworkis"
+        ],
+        "episodes": [
+            "15.10 The Heroes' Journey"
+        ],
+        "occupation": [
+            "Shapeshifter"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg84x7a"
+    },
+    {
+        "name": "Cyrus Dorian",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-C.Dorian.png",
+        "actor": [
+            "Dee Jay Jackson"
+        ],
+        "episodes": [
+            "1.13 Route 666"
+        ],
+        "occupation": [
+            "Vengeful Spirit"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg84y4e"
+    },
+    {
+        "name": "Dale",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Dale.png",
+        "actor": [
+            "Greyston Holt"
+        ],
+        "episodes": [
+            "9.19 Alex Annie Alexis Ann"
+        ],
+        "occupation": [
+            "Vampire"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg84yy8"
+    },
+    {
+        "name": "Dave Mather",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-DaveMather.png",
+        "actor": [
+            "Jonathan Cherry"
+        ],
+        "episodes": [
+            "13.06 Tombstone"
+        ],
+        "occupation": [
+            "Ghoul"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg850jm"
+    },
+    {
+        "name": "David Lassiter",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-DavidLassiter.png",
+        "actor": [
+            "Nathaniel Buzolic"
+        ],
+        "episodes": [
+            "9.20 Bloodlines"
+        ],
+        "occupation": [
+            "Shapeshifter"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg851cp"
+    },
+    {
+        "name": "Dean%27s Monster Mashups",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg8520y"
+    },
+    {
+        "name": "Death",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Death.jpg",
+        "actor": [
+            "Julian Richings",
+            "Lisa Berry",
+            "Kimberly Sustad"
+        ],
+        "episodes": [
+            "5.21 Two Minutes to Midnight",
+            "6.11 Appointment in Samarra",
+            "7.01 Meet the New Boss",
+            "9.01 I Think I'm Gonna Like It Here",
+            "10.23 Brother's Keeper",
+            "13.05 Advanced Thanatology",
+            "13.19 Funeralia",
+            "14.10 Nihilism",
+            "14.20 Moriah",
+            "15.12 Galaxy Brain",
+            "15.13 Destiny's Child",
+            "15.18 Despair",
+            "15.19 Inherit the Earth"
+        ],
+        "occupation": [
+            "Horseman of the Apocalypse"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg852n0"
+    },
+    {
+        "name": "Death Echo",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg853b4"
+    },
+    {
+        "name": "Death Omen",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg853zy"
+    },
+    {
+        "name": "Deputy Donelly",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-DeputyDonelly.png",
+        "actor": [
+            "Teach Grant"
+        ],
+        "episodes": [
+            "11.04 Baby"
+        ],
+        "occupation": [
+            "Nachzehrer",
+            "Sheriff's Deputy"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg854xi"
+    },
+    {
+        "name": "Desmond",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Desmond_806.jpg",
+        "actor": [
+            "Chad Rook"
+        ],
+        "episodes": [
+            "8.09 Citizen Fang"
+        ],
+        "occupation": [
+            "Vampire"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg855fe"
+    },
+    {
+        "name": "Detective Charlene Penn",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Carlene.jpg",
+        "actor": [
+            "Kendall Cross"
+        ],
+        "episodes": [
+            "7.13 The Slice Girls"
+        ],
+        "occupation": [
+            "Amazon",
+            "Detective"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg855xc"
+    },
+    {
+        "name": "Deva",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg856m7"
+    },
+    {
+        "name": "Dexter O%27Connell",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/Dexter_oconnell.jpg",
+        "actor": [
+            "Derek Gilroy"
+        ],
+        "episodes": [
+            "7.19 Of Grave Importance"
+        ],
+        "occupation": [
+            "Ghost",
+            "Death Omen"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg85784"
+    },
+    {
+        "name": "Dick Roman",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-DickRoman.jpg",
+        "actor": [
+            "James Patrick Stuart"
+        ],
+        "episodes": [
+            "7.06 Slash Fiction",
+            "7.09 How to Win Friends and Influence Monsters",
+            "7.10 Death's Door",
+            "7.20 The Girl with the Dungeons and Dragons Tattoo",
+            "7.22 There Will Be Blood",
+            "7.23 Survival of the Fittest"
+        ],
+        "occupation": [
+            "Leviathans",
+            "Richard Roman Enterprises"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg857qa"
+    },
+    {
+        "name": "Dirk McGregor",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/Dirk_McGrgor.jpg",
+        "actor": [
+            "Casey Dubois"
+        ],
+        "episodes": [
+            "4.13 After School Special"
+        ],
+        "occupation": [
+            "Vengeful Spirit"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg858co"
+    },
+    {
+        "name": "Dixon",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-DixonVamp.jpg",
+        "actor": [
+            "Matthew Humphreys"
+        ],
+        "episodes": [
+            "3.07 Fresh Blood"
+        ],
+        "occupation": [
+            "Vampire"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg858v2"
+    },
+    {
+        "name": "Djinn",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Djinn.jpg",
+        "actor": [],
+        "episodes": [
+            "2.20 What Is and What Should Never Be",
+            "6.01 Exile on Main St.",
+            "6.10 Caged Heat",
+            "8.20 Pac-Man Fever",
+            "9.20 Bloodlines",
+            "14.05 Nightmare Logic",
+            "14.10 Nihilism",
+            "15.10 The Heroes' Journey"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Silver",
+            "Extreme brain damage"
+        ],
+        "appearance": [
+            "Humanoid with Henna tattoo-like markings adorning their bodies."
+        ],
+        "powers": [
+            "Telepathy",
+            "Poisonous touch"
+        ],
+        "id": "5441xklrclhg859d0"
+    },
+    {
+        "name": "Dolores Glockner",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/NurseGlockner.jpg",
+        "actor": [
+            "Andee Frizzell"
+        ],
+        "episodes": [
+            "2.19 Folsom Prison Blues"
+        ],
+        "occupation": [
+            "Vengeful Spirit",
+            "Nurse"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg859zd"
+    },
+    {
+        "name": "Doppelganger",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg85anx"
+    },
+    {
+        "name": "Dr Gaines",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Dr_gaines-00087.png",
+        "actor": [
+            "Cameron Bancroft"
+        ],
+        "episodes": [
+            "7.02 Hello, Cruel World",
+            "7.03 The Girl Next Door",
+            "7.09 How to Win Friends and Influence Monsters"
+        ],
+        "occupation": [
+            "Leviathan",
+            "Surgeon"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg85bgg"
+    },
+    {
+        "name": "Dr. Avery Meadows",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Dr._Avery_Meadows.jpg",
+        "actor": [
+            "Sacha M. Romalo"
+        ],
+        "episodes": [
+            "13.05 Advanced Thanatology"
+        ],
+        "occupation": [
+            "Ghost",
+            "Doctor"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg85byi"
+    },
+    {
+        "name": "Dr. Eleanor Visyak",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-DrEleanorVisyak.jpg",
+        "actor": [
+            "Kim Johnston Ulrich"
+        ],
+        "episodes": [
+            "6.12 Like a Virgin",
+            "6.21 Let It Bleed",
+            "6.22 The Man Who Knew Too Much"
+        ],
+        "occupation": [
+            "Purgatory native",
+            "Academic Professor"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg85cfx"
+    },
+    {
+        "name": "Dr. H.H. Holmes",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-HHHolmes.jpg",
+        "actor": [
+            "Stephen Aberle"
+        ],
+        "episodes": [
+            "2.06 No Exit"
+        ],
+        "occupation": [
+            "Ghost",
+            "Serial killer"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg85cy7"
+    },
+    {
+        "name": "Dr. Hydeker",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/300px-Hydeker.jpg",
+        "actor": [
+            "Adrian Hough",
+            "Jeannie Epper",
+            "Shtriga"
+        ],
+        "episodes": [
+            "1.18 Something Wicked"
+        ],
+        "occupation": [
+            "Shtriga",
+            "Witch",
+            "Doctor"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg85dgh"
+    },
+    {
+        "name": "Dragons",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-DragonWings.png",
+        "actor": [],
+        "episodes": [
+            "6.12 Like a Virgin"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Blade forged with the blood of a dragon"
+        ],
+        "appearance": [
+            "Humanoid with scales under the skin, retractable bat-like wings, serpent eyes and talons."
+        ],
+        "powers": [
+            "Pyrokinesis",
+            "Flight",
+            "Super strength"
+        ],
+        "id": "5441xklrclhg85e9b"
+    },
+    {
+        "name": "Ear Worm",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Khan_Worm.jpg",
+        "actor": [],
+        "episodes": [
+            "6.16 ...And Then There Were None",
+            "10.15 The Things They Carried"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Electrocution/Variant by dehydration"
+        ],
+        "appearance": [
+            "Like a slug crossed with a centipede; variant has more pronounced pincers."
+        ],
+        "powers": [
+            "Able to control a person's actions after it enters their brain through their ear and enhances the strength of its host.",
+            "Variant feeds off bodily fluid, victim will kill and drink blood of others."
+        ],
+        "id": "5441xklrclhg85erg"
+    },
+    {
+        "name": "Ectoplasm",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg85ffq"
+    },
+    {
+        "name": "Ed Bright",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Ed_Bright.jpg",
+        "actor": [
+            "Nathan Witte"
+        ],
+        "episodes": [
+            "6.19 Mommy Dearest"
+        ],
+        "occupation": [
+            "Jefferson Starships"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg85fxu"
+    },
+    {
+        "name": "Edgar",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-EdgarLevi.jpg",
+        "actor": [
+            "Benito Martinez"
+        ],
+        "episodes": [
+            "7.02 Hello, Cruel World",
+            "7.03 The Girl Next Door",
+            "7.09 How to Win Friends and Influence Monsters",
+            "7.21 Reading Is Fundamental",
+            "7.22 There Will Be Blood"
+        ],
+        "occupation": [
+            "Leviathan",
+            "Demolitions expert"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg85gfm"
+    },
+    {
+        "name": "Elementals",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg85h43"
+    },
+    {
+        "name": "Eli",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-EliVamp.jpg",
+        "actor": [
+            "Ty Olsson"
+        ],
+        "episodes": [
+            "2.03 Bloodlust"
+        ],
+        "occupation": [
+            "Vampire",
+            "Bartender"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg85hlw"
+    },
+    {
+        "name": "Elias Finch",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Phoenix.jpg",
+        "actor": [
+            "Matthew John Armstrong"
+        ],
+        "episodes": [
+            "6.18 Frontierland"
+        ],
+        "occupation": [
+            "Phoenix"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg85i4r"
+    },
+    {
+        "name": "Emma",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Emma.jpg",
+        "actor": [
+            "Alexia Fast",
+            "Madison Bell"
+        ],
+        "episodes": [
+            "7.13 The Slice Girls"
+        ],
+        "occupation": [
+            "Amazon"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg85imt"
+    },
+    {
+        "name": "Espírito Santo",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg85jah"
+    },
+    {
+        "name": "Eve",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-EveRising.jpg",
+        "actor": [
+            "Julia Maxwell",
+            "Samantha Smith"
+        ],
+        "episodes": [
+            "6.12 Like a Virgin",
+            "6.16 ...And Then There Were None",
+            "6.19 Mommy Dearest",
+            "6.20 The Man Who Would Be King"
+        ],
+        "occupation": [
+            "Mother of All Monsters"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg85jti"
+    },
+    {
+        "name": "Fairies",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Deanvs.Tinkerbell.jpg",
+        "actor": [],
+        "episodes": [
+            "6.09 Clap Your Hands If You Believe...",
+            "8.11 LARP and the Real Girl",
+            "9.04 Slumber Party"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Iron",
+            "silver"
+        ],
+        "appearance": [
+            "Varies"
+        ],
+        "powers": [
+            "Magic"
+        ],
+        "id": "5441xklrclhg85kb9"
+    },
+    {
+        "name": "Familiars",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Familiarcat.png",
+        "actor": [],
+        "episodes": [
+            "8.15 Man's Best Friend with Benefits"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Any killing method"
+        ],
+        "appearance": [
+            "Human/Animal"
+        ],
+        "powers": [
+            "Shapeshift into an animal, telepathic and sense a person's personality."
+        ],
+        "id": "5441xklrclhg85l4h"
+    },
+    {
+        "name": "Famine",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Famine5.14.jpg",
+        "actor": [
+            "James Otis"
+        ],
+        "episodes": [
+            "5.14 My Bloody Valentine"
+        ],
+        "occupation": [
+            "Horseman of the Apocalypse"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg85lno"
+    },
+    {
+        "name": "Fate",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Atropos-Fate.jpg",
+        "actor": [
+            "Katie Walder"
+        ],
+        "episodes": [
+            "6.17 My Heart Will Go On"
+        ],
+        "occupation": [
+            "One of the Three Fates"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg85m65"
+    },
+    {
+        "name": "Father Thomas Gregory",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-ThomasGregory.jpg",
+        "actor": [
+            "David Monahan"
+        ],
+        "episodes": [
+            "2.13 Houses of the Holy"
+        ],
+        "occupation": [
+            "Ghost",
+            "Priest"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg85mow"
+    },
+    {
+        "name": "Fiona Duncan",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-GhostFiona.png",
+        "actor": [
+            "Christine Gavin-Bartlett"
+        ],
+        "episodes": [
+            "12.13 Family Feud"
+        ],
+        "occupation": [
+            "Ghost"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg85ng5"
+    },
+    {
+        "name": "Forest Troll",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Kaiju.png",
+        "actor": [],
+        "episodes": [
+            "13.10 Wayward Sisters"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Unknown"
+        ],
+        "appearance": [
+            "Giant frickin' monster."
+        ],
+        "powers": [
+            "Crushing everything in its path."
+        ],
+        "id": "5441xklrclhg85o99"
+    },
+    {
+        "name": "Four Horsemen of the Apocalypse",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/TheFourHorsemen.jpg",
+        "actor": [
+            "Titus Welliver",
+            "James Otis",
+            "Matt Frewer",
+            "Julian Richings"
+        ],
+        "episodes": [
+            "5.02 Good God, Y'All",
+            "5.10 Abandon All Hope...",
+            "5.14 My Bloody Valentine",
+            "5.15 Dead Men Don't Wear Plaid",
+            "5.19 Hammer of the Gods",
+            "5.20 The Devil You Know",
+            "5.21 Two Minutes to Midnight",
+            "6.11 Appointment in Samarra",
+            "7.01 Meet the New Boss",
+            "9.01 I Think I'm Gonna Like It Here",
+            "10.23 Brother's Keeper"
+        ],
+        "occupation": [
+            "Four Horsemen of the Apocalypse"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg85p6b"
+    },
+    {
+        "name": "Freeman Daggett",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/Freeman_Dagget2.jpg",
+        "actor": [
+            "John DeSantis"
+        ],
+        "episodes": [
+            "3.13 Ghostfacers"
+        ],
+        "occupation": [
+            "Ghost",
+            "Janitor"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg85poj"
+    },
+    {
+        "name": "Garth",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-GarthFitzgeraldIV.png",
+        "actor": [
+            "DJ Qualls"
+        ],
+        "episodes": [
+            "7.08 Season Seven, Time for a Wedding!",
+            "7.18 Party On, Garth",
+            "8.06 Southern Comfort",
+            "9.12 Sharp Teeth",
+            "14.09 The Spear",
+            "15.10 The Heroes' Journey"
+        ],
+        "occupation": [
+            "Hunter",
+            "Werewolf",
+            "Dentist"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg85qlr"
+    },
+    {
+        "name": "George",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-LeviGeorge.jpg",
+        "actor": [
+            "Bryan Cuprill"
+        ],
+        "episodes": [
+            "7.16 Out with the Old"
+        ],
+        "occupation": [
+            "Leviathan",
+            "Personal assistant"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg85r4p"
+    },
+    {
+        "name": "George (Rabid)",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Rabid-George.png",
+        "actor": [
+            "Trevor Roberts"
+        ],
+        "episodes": [
+            "11.02 Form and Void"
+        ],
+        "occupation": [
+            "Rabid"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg85s1i"
+    },
+    {
+        "name": "Gertie Fitzgerald",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-GertieFitzgerald.png",
+        "actor": [
+            "Emma Oliver"
+        ],
+        "episodes": [
+            "15.10 The Heroes' Journey"
+        ],
+        "occupation": [
+            "Werewolf"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg85sxx"
+    },
+    {
+        "name": "Ghost",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/Ghosts.jpg",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [
+            "Iron",
+            "Salt",
+            "Burning of remains"
+        ],
+        "appearance": [
+            "Varies; the form of the deceased, which may have visible signs of trauma or decay."
+        ],
+        "powers": [
+            "Possession",
+            "Telekinesis",
+            "Teleportation"
+        ],
+        "id": "5441xklrclhg85tnl"
+    },
+    {
+        "name": "Ghost Children",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-GhostChildren.jpg",
+        "actor": [
+            "Darien Provost",
+            "Connor Stanhope",
+            "Connor Beardmore",
+            "Luke Gair"
+        ],
+        "episodes": [
+            "5.09 The Real Ghostbusters"
+        ],
+        "occupation": [
+            "Ghosts"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg85u6f"
+    },
+    {
+        "name": "Ghost Sickness",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg85uvf"
+    },
+    {
+        "name": "Ghouls",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Ghouls.jpg",
+        "actor": [],
+        "episodes": [
+            "4.19 Jump the Shark",
+            "6.10 Caged Heat",
+            "13.06 Tombstone"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Brain trauma",
+            "Decapitation"
+        ],
+        "appearance": [
+            "Human; can appear as any person they have fed on, living or dead."
+        ],
+        "powers": [
+            "Shapeshifting"
+        ],
+        "id": "5441xklrclhg85veh"
+    },
+    {
+        "name": "Gilda",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Gilda-Fairy.jpg",
+        "actor": [
+            "Tiffany Dupont"
+        ],
+        "episodes": [
+            "8.11 LARP and the Real Girl"
+        ],
+        "occupation": [
+            "Fairy"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg85vx3"
+    },
+    {
+        "name": "Glen",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Glen.jpg",
+        "actor": [
+            "Brad Dryborough"
+        ],
+        "episodes": [
+            "2.17 Heart"
+        ],
+        "occupation": [
+            "Werewolf"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg85wf5"
+    },
+    {
+        "name": "Gog and Magog",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Gog&Magog.png",
+        "actor": [
+            "Michael Jonsson",
+            "Andre Tricoteux"
+        ],
+        "episodes": [
+            "13.14 Good Intentions"
+        ],
+        "occupation": [
+            "Primitive Beasts",
+            "Warriors"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg85xfg"
+    },
+    {
+        "name": "Golem",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Golem.jpg",
+        "actor": [],
+        "episodes": [
+            "8.13 Everybody Hates Hitler",
+            "1.10 Suspicious Minds"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Rabbinical spells"
+        ],
+        "appearance": [
+            "Large humanoid made of clay."
+        ],
+        "powers": [
+            "Superhuman strength"
+        ],
+        "id": "5441xklrclhg85xxo"
+    },
+    {
+        "name": "Gordon Walker",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Gordon_Walker.jpg",
+        "actor": [],
+        "episodes": [
+            "2.03 Bloodlust",
+            "2.10 Hunted",
+            "3.03 Bad Day at Black Rock",
+            "3.07 Fresh Blood"
+        ],
+        "occupation": [
+            "Hunter",
+            "Vampire"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg85yfy"
+    },
+    {
+        "name": "Gorgon",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Noah_Ophis.png",
+        "actor": [],
+        "episodes": [
+            "14.14 Ouroboros"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Silver",
+            "Celestial beings"
+        ],
+        "appearance": [
+            "Humanoid with reptilian eyes"
+        ],
+        "powers": [
+            "Paralyzing venom",
+            "Precognition"
+        ],
+        "id": "5441xklrclhg85z9b"
+    },
+    {
+        "name": "Gorilla-Wolves",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Gorilla-Wolves.jpg",
+        "actor": [],
+        "episodes": [
+            "7.23 Survival of the Fittest"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Unknown"
+        ],
+        "appearance": [
+            "Large quadrupeds, with glowing red eyes."
+        ],
+        "powers": [
+            "Enhanced speed"
+        ],
+        "id": "5441xklrclhg85zuu"
+    },
+    {
+        "name": "Growley",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/400px-Lambogomg.jpg",
+        "actor": [],
+        "episodes": [
+            "5.20 The Devil You Know",
+            "6.04 Weekend at Bobby's",
+            "8.14 Trial and Error",
+            "8.17 Goodbye Stranger"
+        ],
+        "occupation": [
+            "Crowley",
+            "hellhound"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg860cj"
+    },
+    {
+        "name": "Haskel Crane",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/Haskel_crane.jpg",
+        "actor": [
+            "Craig Erickson"
+        ],
+        "episodes": [
+            "7.19 Of Grave Importance"
+        ],
+        "occupation": [
+            "Ghost"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg860yb"
+    },
+    {
+        "name": "Hayden Foster",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-HaydenFoster.jpg",
+        "actor": [
+            "Abby Ross"
+        ],
+        "episodes": [
+            "12.16 Ladies Drink Free"
+        ],
+        "occupation": [
+            "Werewolf"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg861gf"
+    },
+    {
+        "name": "Hell Ghosts",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-HellGhost.png",
+        "actor": [],
+        "episodes": [
+            "14.20 Moriah",
+            "15.01 Back and to the Future",
+            "15.02 Raising Hell",
+            "15.03 The Rupture"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Iron",
+            "Salt"
+        ],
+        "appearance": [
+            "Varies; a skeletal apparition or the form of the deceased, which may have visible signs of trauma or decay."
+        ],
+        "powers": [
+            "Possession",
+            "Teleportation"
+        ],
+        "id": "5441xklrclhg862a3"
+    },
+    {
+        "name": "Hellhound",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Hellhound814.png",
+        "actor": [],
+        "episodes": [
+            "2.08 Crossroad Blues",
+            "3.15 Time Is on My Side",
+            "3.16 No Rest for the Wicked",
+            "5.10 Abandon All Hope...",
+            "5.20 The Devil You Know",
+            "6.04 Weekend at Bobby's",
+            "6.10 Caged Heat",
+            "8.14 Trial and Error",
+            "9.21 King of the Damned",
+            "11.15 Beyond the Mat"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Salt",
+            "Angel blade",
+            "Demon-killing knife"
+        ],
+        "appearance": [
+            "holy fire"
+        ],
+        "powers": [
+            "Enhanced senses",
+            "Invulnerability"
+        ],
+        "id": "5441xklrclhg863an"
+    },
+    {
+        "name": "Hellspawn",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg863zk"
+    },
+    {
+        "name": "Henry (Vampire)",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-VampireHenry.png",
+        "actor": [
+            "Jedidiah Goodacre"
+        ],
+        "episodes": [
+            "11.12 Don't You Forget About Me"
+        ],
+        "occupation": [
+            "Vampire"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg864te"
+    },
+    {
+        "name": "Henry Parker",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-HenryParker.png",
+        "actor": [],
+        "episodes": [
+            "14.16 Don't Go in the Woods"
+        ],
+        "occupation": [
+            "Kohonta"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg865qj"
+    },
+    {
+        "name": "Hugo Moriarty",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-HugoMoriarty.png",
+        "actor": [
+            "Cameron Grierson"
+        ],
+        "episodes": [
+            "12.03 The Foundry"
+        ],
+        "occupation": [
+            "Ghost"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg866nc"
+    },
+    {
+        "name": "Il Soarta",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-IlSoarta.png",
+        "actor": [],
+        "episodes": [
+            "1.09 Cast Your Fate to the Wind"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Dead man's blood",
+            "Holy Water",
+            "Decapitation"
+        ],
+        "appearance": [
+            "Human with pronounced brow ridge and retractable fangs."
+        ],
+        "powers": [
+            "Enhanced senses",
+            "Superhuman strength"
+        ],
+        "id": "5441xklrclhg867hd"
+    },
+    {
+        "name": "Isabella",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Isabella.png",
+        "actor": [
+            "Catherine Michaud"
+        ],
+        "episodes": [
+            "10.16 Paint It Black"
+        ],
+        "occupation": [
+            "Vengeful Spirit",
+            "Nun"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg868a9"
+    },
+    {
+        "name": "Isaiah Merchant",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-IsaiahMerchant.jpg",
+        "actor": [
+            "Linden Banks"
+        ],
+        "episodes": [
+            "1.19 Provenance"
+        ],
+        "occupation": [
+            "Death Omen",
+            "Ghost",
+            "Barber"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg868s5"
+    },
+    {
+        "name": "Jack Fiddler",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg869in"
+    },
+    {
+        "name": "Jack Montgomery",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-JackMontgomery.jpg",
+        "actor": [
+            "Dameon Clarke"
+        ],
+        "episodes": [
+            "4.04 Metamorphosis"
+        ],
+        "occupation": [
+            "Rugaru"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg86a13"
+    },
+    {
+        "name": "Jacob",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Jacob-Kitsune.jpg",
+        "actor": [
+            "Lyova Beckwitt"
+        ],
+        "episodes": [
+            "7.03 The Girl Next Door"
+        ],
+        "occupation": [
+            "Kitsune"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg86aj2"
+    },
+    {
+        "name": "Jacob Karns",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Hookman.jpg",
+        "actor": [
+            "Sean Millington"
+        ],
+        "episodes": [
+            "1.07 Hook Man"
+        ],
+        "occupation": [
+            "Ghost",
+            "Preacher"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg86b5d"
+    },
+    {
+        "name": "Jefferson Starships",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Jefferson_Starship.png",
+        "actor": [],
+        "episodes": [
+            "6.19 Mommy Dearest"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Smiting",
+            "Decapitation"
+        ],
+        "appearance": [
+            "Humanoid"
+        ],
+        "powers": [
+            "Shapeshifting",
+            "Infectious bite",
+            "Superhuman strength"
+        ],
+        "id": "5441xklrclhg86bxx"
+    },
+    {
+        "name": "Jennifer O%27Brien",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-JenniferOBrien.jpg",
+        "actor": [
+            "Lynda Boyd"
+        ],
+        "episodes": [
+            "8.20 Pac-Man Fever"
+        ],
+        "occupation": [
+            "Djinn",
+            "Coroner"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg86cgf"
+    },
+    {
+        "name": "Jenny (Vampire)",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-JennyDMB.jpg",
+        "actor": [
+            "Christine Chatelain"
+        ],
+        "episodes": [
+            "1.20 Dead Man's Blood",
+            "15.20 Carry On"
+        ],
+        "occupation": [
+            "Vampire"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg86cyv"
+    },
+    {
+        "name": "Jessica (Reaper)",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Jessica.png",
+        "actor": [
+            "Kayla Stanton"
+        ],
+        "episodes": [
+            "13.05 Advanced Thanatology",
+            "13.19 Funeralia"
+        ],
+        "occupation": [
+            "Reaper"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg86dqw"
+    },
+    {
+        "name": "Jimmy Day",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Jimmy_Day_Vamp.jpg",
+        "actor": [
+            "Paul Batten"
+        ],
+        "episodes": [
+            "8.18 Freaks and Geeks"
+        ],
+        "occupation": [
+            "Vampire",
+            "Soldier"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg86e9n"
+    },
+    {
+        "name": "Joan Hopkins",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-JoanHopkins.png",
+        "actor": [
+            "Kelly Sullivan"
+        ],
+        "episodes": [
+            "1.07 Reflections",
+            "1.13 Hey, That’s No Way to Say Goodbye"
+        ],
+        "occupation": [
+            "Hunter",
+            "Monster",
+            "Akrida"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg86f6d"
+    },
+    {
+        "name": "Joba",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Joba.jpg",
+        "actor": [
+            "Peter Benson"
+        ],
+        "episodes": [
+            "9.12 Sharp Teeth"
+        ],
+        "occupation": [
+            "Werewolf"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg86fpp"
+    },
+    {
+        "name": "Joe and Ryan Silver",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Ryanandjoesilver.jpg",
+        "actor": [
+            "Travis Turner",
+            "Griffin Parsons"
+        ],
+        "episodes": [
+            "6.19 Mommy Dearest"
+        ],
+        "occupation": [
+            "Jefferson Starships"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg86g7d"
+    },
+    {
+        "name": "John Wayne Gacy",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-JohnWayneGacy.png",
+        "actor": [
+            "Shaun Magee",
+            "Sean Tyson"
+        ],
+        "episodes": [
+            "14.13 Lebanon",
+            "14.20 Moriah",
+            "15.01 Back and to the Future"
+        ],
+        "occupation": [
+            "Clown",
+            "Serial killer",
+            "Ghost"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg86h4o"
+    },
+    {
+        "name": "Jonah Greely",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Jonah_Greely.jpg",
+        "actor": [
+            "Winston Rekert"
+        ],
+        "episodes": [
+            "2.16 Roadkill"
+        ],
+        "occupation": [
+            "Vengeful Spirit"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg86hmq"
+    },
+    {
+        "name": "Jordan MacNeel",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-JordanMcNeil.png",
+        "actor": [],
+        "episodes": [
+            "14.04 Mint Condition"
+        ],
+        "occupation": [
+            "Ghost"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg86ino"
+    },
+    {
+        "name": "Josh May",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-JoshMay.png",
+        "actor": [
+            "Luke Camilleri"
+        ],
+        "episodes": [
+            "15.05 Proverbs 17:3"
+        ],
+        "occupation": [
+            "Werewolf"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg86jha"
+    },
+    {
+        "name": "Joy Myers",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-SisterJoy.jpg",
+        "actor": [
+            "Eve Gordon"
+        ],
+        "episodes": [
+            "9.12 Sharp Teeth"
+        ],
+        "occupation": [
+            "Werewolf"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg86jzj"
+    },
+    {
+        "name": "Joyce Bicklebee",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-JoyceBicklebee.png",
+        "actor": [
+            "Mary Page Keller"
+        ],
+        "episodes": [
+            "7.16 Out with the Old"
+        ],
+        "occupation": [
+            "Leviathan",
+            "Realtor"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg86kw9"
+    },
+    {
+        "name": "Julian Duval",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Julian.png",
+        "actor": [
+            "Sean Faris"
+        ],
+        "episodes": [
+            "9.20 Bloodlines"
+        ],
+        "occupation": [
+            "Werewolf"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg86lqk"
+    },
+    {
+        "name": "Justin",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-WerewolfJustin.jpg",
+        "actor": [
+            "Matt Visser"
+        ],
+        "episodes": [
+            "12.16 Ladies Drink Free"
+        ],
+        "occupation": [
+            "Werewolf",
+            "Bartender"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg86m9x"
+    },
+    {
+        "name": "Kate (Vampire)",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Kate.jpg",
+        "actor": [
+            "Anne Openshaw"
+        ],
+        "episodes": [
+            "1.20 Dead Man's Blood"
+        ],
+        "occupation": [
+            "Vampire"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg86ms1"
+    },
+    {
+        "name": "Kate (Werewolf)",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Kate804.jpg",
+        "actor": [
+            "Brit Sheridan"
+        ],
+        "episodes": [
+            "8.04 Bitten",
+            "10.04 Paper Moon"
+        ],
+        "occupation": [
+            "Werewolf"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg86nbs"
+    },
+    {
+        "name": "Kate Fox",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-KateFox.jpg",
+        "actor": [
+            "Jennifer Koenig"
+        ],
+        "episodes": [
+            "7.07 The Mentalists"
+        ],
+        "occupation": [
+            "Psychic",
+            "Ghost",
+            "Death Omen"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg86nu9"
+    },
+    {
+        "name": "Khan Worm",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Khan_Worm.jpg",
+        "actor": [],
+        "episodes": [
+            "6.16 ...And Then There Were None",
+            "10.15 The Things They Carried"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Electrocution/Variant by dehydration"
+        ],
+        "appearance": [
+            "Like a slug crossed with a centipede; variant has more pronounced pincers."
+        ],
+        "powers": [
+            "Able to control a person's actions after it enters their brain through their ear and enhances the strength of its host.",
+            "Variant feeds off bodily fluid, victim will kill and drink blood of others."
+        ],
+        "id": "5441xklrclhg86ocj"
+    },
+    {
+        "name": "Kitsune",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Kitsune.jpg",
+        "actor": [],
+        "episodes": [
+            "7.03 The Girl Next Door"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Stabbing the heart"
+        ],
+        "appearance": [
+            "Can take on human form, have claws and fox-like eyes."
+        ],
+        "powers": [
+            "Super strength"
+        ],
+        "id": "5441xklrclhg86oug"
+    },
+    {
+        "name": "Kohonta",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Kahonta.JPG",
+        "actor": [],
+        "episodes": [
+            "14.16 Don't Go in the Woods"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Silver"
+        ],
+        "appearance": [
+            "Humanoid with leathery skin"
+        ],
+        "powers": [
+            "Super strength, super speed, acidic bile, immortality, invulnerability"
+        ],
+        "id": "5441xklrclhg86pcw"
+    },
+    {
+        "name": "Krampus",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg86q1x"
+    },
+    {
+        "name": "Kristen Powell",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Kristen.jpg",
+        "actor": [
+            "Elise Gatien"
+        ],
+        "episodes": [
+            "6.05 Live Free or Twihard"
+        ],
+        "occupation": [
+            "Vampire"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg86qld"
+    },
+    {
+        "name": "La Tunda",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-LaTunda.png",
+        "actor": [
+            "Juliene Joyner"
+        ],
+        "episodes": [
+            "1.02 Teach Your Children Well"
+        ],
+        "occupation": [
+            "Monster"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg86rep"
+    },
+    {
+        "name": "Lamia",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Lamia.jpg",
+        "actor": [],
+        "episodes": [
+            "6.04 Weekend at Bobby's",
+            "15.14 Last Holiday"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Silver"
+        ],
+        "appearance": [
+            "Humanoid"
+        ],
+        "powers": [
+            "Super strength"
+        ],
+        "id": "5441xklrclhg86rxn"
+    },
+    {
+        "name": "Lara Coggins",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-LaraCoggins.jpg",
+        "actor": [
+            "Carmel Amit"
+        ],
+        "episodes": [
+            "7.10 Death's Door"
+        ],
+        "occupation": [
+            "Vengeful Spirit"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg86sg8"
+    },
+    {
+        "name": "Lenore",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Lenore.jpg",
+        "actor": [
+            "Amber Benson"
+        ],
+        "episodes": [
+            "2.03 Bloodlust",
+            "6.19 Mommy Dearest"
+        ],
+        "occupation": [
+            "Vampire"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg86sy9"
+    },
+    {
+        "name": "Leprechaun",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-WayneWhittaker.jpg",
+        "actor": [
+            "Robert Picardo"
+        ],
+        "episodes": [
+            "6.09 Clap Your Hands If You Believe..."
+        ],
+        "occupation": [
+            "Leprechaun"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg86tgb"
+    },
+    {
+        "name": "Leticia Gore",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-LeticiaGore.jpg",
+        "actor": [
+            "Teagan Rae Avoledo"
+        ],
+        "episodes": [
+            "5.09 The Real Ghostbusters"
+        ],
+        "occupation": [
+            "Ghost"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg86tyn"
+    },
+    {
+        "name": "Leviathan!Castiel",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-CasLevi.jpg",
+        "actor": [
+            "Misha Collins"
+        ],
+        "episodes": [
+            "7.01 Meet the New Boss",
+            "7.02 Hello, Cruel World"
+        ],
+        "occupation": [
+            "Leviathans"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg86ugt"
+    },
+    {
+        "name": "Leviathan!Dean",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-LeviathanDean.jpg",
+        "actor": [
+            "Jensen Ackles"
+        ],
+        "episodes": [
+            "7.06 Slash Fiction"
+        ],
+        "occupation": [
+            "Leviathan"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg86uyr"
+    },
+    {
+        "name": "Leviathan!Sam",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Leviathansam.jpg",
+        "actor": [
+            "Jared Padalecki"
+        ],
+        "episodes": [
+            "7.06 Slash Fiction"
+        ],
+        "occupation": [
+            "Leviathan"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg86vks"
+    },
+    {
+        "name": "Leviathans",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-EdgarMouth.jpg",
+        "actor": [],
+        "episodes": [
+            "7.01 Meet the New Boss",
+            "7.02 Hello, Cruel World",
+            "7.03 The Girl Next Door",
+            "7.05 Shut Up, Dr. Phil",
+            "7.06 Slash Fiction",
+            "7.09 How to Win Friends and Influence Monsters",
+            "7.10 Death's Door",
+            "7.11 Adventures in Babysitting",
+            "7.12 Time After Time",
+            "7.16 Out with the Old",
+            "7.20 The Girl with the Dungeons and Dragons Tattoo",
+            "7.21 Reading Is Fundamental",
+            "7.22 There Will Be Blood",
+            "7.23 Survival of the Fittest",
+            "8.05 Blood Brother",
+            "8.07 A Little Slice of Kevin",
+            "10.19 The Werther Project",
+            "15.09 The Trap"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Borax",
+            "Blood of the Fallen",
+            "Decapitation"
+        ],
+        "appearance": [
+            "Black goo, or human with the ability to transform its face into a giant mouth with pointed teeth and bifurcated tongue."
+        ],
+        "powers": [
+            "Shapeshifting",
+            "Regeneration",
+            "Super strength"
+        ],
+        "id": "5441xklrclhg86w6k"
+    },
+    {
+        "name": "Lily Markham",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-LilyMarkham.png",
+        "actor": [
+            "Sarah-Jane Redmond"
+        ],
+        "episodes": [
+            "11.04 Baby"
+        ],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg86x56"
+    },
+    {
+        "name": "Loch Ness Monster",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg86xu6"
+    },
+    {
+        "name": "Loup-Garou",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Loup-Garou.png",
+        "actor": [],
+        "episodes": [
+            "1.01 Pilot (The Winchesters)"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Silver"
+        ],
+        "appearance": [
+            "Bipedal canine"
+        ],
+        "powers": [
+            "Super strength"
+        ],
+        "id": "5441xklrclhg86ynd"
+    },
+    {
+        "name": "Lucas Kellinger",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-LucasKellinger.png",
+        "actor": [
+            "Christian Convery"
+        ],
+        "episodes": [
+            "12.03 The Foundry"
+        ],
+        "occupation": [
+            "Ghost"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg86zgd"
+    },
+    {
+        "name": "Lucky",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Luckyman.jpg",
+        "actor": [
+            "Andrew Rothenberg"
+        ],
+        "episodes": [
+            "6.08 All Dogs Go to Heaven"
+        ],
+        "occupation": [
+            "Skinwalker"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg86zxx"
+    },
+    {
+        "name": "Lucy",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/LucyVamp.jpg",
+        "actor": [
+            "Mercedes McNab"
+        ],
+        "episodes": [
+            "3.07 Fresh Blood"
+        ],
+        "occupation": [
+            "Vampire"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg870k6"
+    },
+    {
+        "name": "Lucy/Dracula/Shapeshifter",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-MonsterMovieDracula.jpg",
+        "actor": [
+            "Todd Stashwick",
+            "Holly E. Dignard"
+        ],
+        "episodes": [
+            "4.05 Monster Movie"
+        ],
+        "occupation": [
+            "Shapeshifter",
+            "Bartender"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg8712g"
+    },
+    {
+        "name": "Luther",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Luther.jpg",
+        "actor": [
+            "Warren Christie"
+        ],
+        "episodes": [
+            "1.20 Dead Man's Blood"
+        ],
+        "occupation": [
+            "Vampire"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg871kq"
+    },
+    {
+        "name": "Luther Garland",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-LuthorGarland.jpg",
+        "actor": [
+            "David Mattey"
+        ],
+        "episodes": [
+            "4.06 Yellow Fever"
+        ],
+        "occupation": [
+            "Buruburu",
+            "Ghost"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg8722m"
+    },
+    {
+        "name": "Lydia",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Lydia.jpg",
+        "actor": [
+            "Sara Canning"
+        ],
+        "episodes": [
+            "7.13 The Slice Girls"
+        ],
+        "occupation": [
+            "Amazon"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg872kj"
+    },
+    {
+        "name": "Lydia Crawford",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-LydiaCrawford.png",
+        "actor": [
+            "Meganne Young"
+        ],
+        "episodes": [
+            "14.02 Gods and Monsters"
+        ],
+        "occupation": [
+            "Vampire"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg873gz"
+    },
+    {
+        "name": "Mac",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Mac.png",
+        "actor": [
+            "Taryn Terrell",
+            "Drake Rodger"
+        ],
+        "episodes": [
+            "1.06 Art of Dying"
+        ],
+        "occupation": [
+            "Hunter",
+            "Vengeful Spirit"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg874a9"
+    },
+    {
+        "name": "Madeline",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Madeline.jpg",
+        "actor": [
+            "Jill Teed"
+        ],
+        "episodes": [
+            "7.13 The Slice Girls"
+        ],
+        "occupation": [
+            "Amazon"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg874sk"
+    },
+    {
+        "name": "Madison",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Madison.jpg",
+        "actor": [
+            "Emmanuelle Vaugier"
+        ],
+        "episodes": [
+            "2.17 Heart"
+        ],
+        "occupation": [
+            "Werewolf",
+            "Secretary"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg875ez"
+    },
+    {
+        "name": "Maggie Briggs",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-MaggieBriggs.jpg",
+        "actor": [
+            "Jennifer Shirley"
+        ],
+        "episodes": [
+            "5.12 Swap Meat"
+        ],
+        "occupation": [
+            "Poltergeist"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg875xa"
+    },
+    {
+        "name": "Maggie Thompson",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-MaggieThompson.jpg",
+        "actor": [
+            "Conchita Campbell"
+        ],
+        "episodes": [
+            "2.11 Playthings"
+        ],
+        "occupation": [
+            "Ghost"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg876f3"
+    },
+    {
+        "name": "Mandroid",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg8774a"
+    },
+    {
+        "name": "Margaret Fox",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Margaretfox.png",
+        "actor": [
+            "Mia Ingimundson"
+        ],
+        "episodes": [
+            "7.07 The Mentalists"
+        ],
+        "occupation": [
+            "Psychic",
+            "Ghost"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg877yc"
+    },
+    {
+        "name": "Margo Lassiter",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Margo.png",
+        "actor": [
+            "Danielle Savre"
+        ],
+        "episodes": [
+            "9.20 Bloodlines"
+        ],
+        "occupation": [
+            "Shapeshifter"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg878s0"
+    },
+    {
+        "name": "Marid",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Marid.png",
+        "actor": [],
+        "episodes": [
+            "15.07 Last Call"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Decapitation"
+        ],
+        "appearance": [
+            "Amphibious humanoid"
+        ],
+        "powers": [
+            "Blessings",
+            "Super strength"
+        ],
+        "id": "5441xklrclhg879l8"
+    },
+    {
+        "name": "Maritza",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Maritza.jpg",
+        "actor": [
+            "Anabelle Acosta"
+        ],
+        "episodes": [
+            "9.13 The Purge"
+        ],
+        "occupation": [
+            "Pishtaco",
+            "Co-owner of Canyon Valley Wellness Spa"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg87a32"
+    },
+    {
+        "name": "Marlene",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Marlene.jpg",
+        "actor": [
+            "Paula Lindberg"
+        ],
+        "episodes": [
+            "7.11 Adventures in Babysitting"
+        ],
+        "occupation": [
+            "Vetala",
+            "Waitress"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg87alu"
+    },
+    {
+        "name": "Mary Worthington",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-BloodyMary-2.png",
+        "actor": [
+            "Jovanna Burke"
+        ],
+        "episodes": [
+            "1.05 Bloody Mary",
+            "14.20 Moriah",
+            "15.01 Back and to the Future"
+        ],
+        "occupation": [
+            "Vengeful Spirit",
+            "Bloody Mary"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg87bf6"
+    },
+    {
+        "name": "Maul",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Maul.png",
+        "actor": [
+            "Daryl Ducharme"
+        ],
+        "episodes": [
+            "15.10 The Heroes' Journey"
+        ],
+        "occupation": [
+            "Vampire"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg87c8m"
+    },
+    {
+        "name": "Maurice",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Maurice.jpg",
+        "actor": [
+            "Artine Brown"
+        ],
+        "episodes": [
+            "9.03 I'm No Angel"
+        ],
+        "occupation": [
+            "Reaper"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg87cr5"
+    },
+    {
+        "name": "Meg Masters",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-NickiAycox_MegMasters.jpg",
+        "actor": [
+            "Nicki Aycox"
+        ],
+        "episodes": [
+            "1.22 Devil's Trap",
+            "4.02 Are You There God? It's Me, Dean Winchester"
+        ],
+        "occupation": [
+            "Meatsuit",
+            "Witness"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg87dd1"
+    },
+    {
+        "name": "Melanie",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-MelanieWolf.png",
+        "actor": [
+            "Andrea Drepaul"
+        ],
+        "episodes": [
+            "14.02 Gods and Monsters",
+            "14.09 The Spear"
+        ],
+        "occupation": [
+            "Werewolf"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg87eaj"
+    },
+    {
+        "name": "Melanie Merchant",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Melanie.JPG",
+        "actor": [
+            "Jodelle Micha Ferland"
+        ],
+        "episodes": [
+            "1.19 Provenance"
+        ],
+        "occupation": [
+            "Ghost"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg87esx"
+    },
+    {
+        "name": "Merle",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Merle.png",
+        "actor": [
+            "Sandra Ferens"
+        ],
+        "episodes": [
+            "15.12 Galaxy Brain"
+        ],
+        "occupation": [
+            "Reaper"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg87flv"
+    },
+    {
+        "name": "Mia Vallens",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-MiaVallens.png",
+        "actor": [
+            "Rukiya Bernard"
+        ],
+        "episodes": [
+            "13.04 The Big Empty"
+        ],
+        "occupation": [
+            "Shapeshifter",
+            "Grief Counselor"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg87gix"
+    },
+    {
+        "name": "Michael Wheeler",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Michael804.jpg",
+        "actor": [
+            "Brandon Jones"
+        ],
+        "episodes": [
+            "8.04 Bitten"
+        ],
+        "occupation": [
+            "Werewolf",
+            "Student"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg87h0z"
+    },
+    {
+        "name": "Michael%27s Monsters",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg87hpe"
+    },
+    {
+        "name": "Mike Schneider",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-MikeSchneider.png",
+        "actor": [
+            "Aaron Hill"
+        ],
+        "episodes": [
+            "11.01 Out of the Darkness, Into the Fire"
+        ],
+        "occupation": [
+            "Amara"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg87iis"
+    },
+    {
+        "name": "Mimic",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [
+            "1.02 Teach Your Children Well"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Copper"
+        ],
+        "appearance": [
+            "Humanoid"
+        ],
+        "powers": [
+            "Shapeshifting"
+        ],
+        "id": "5441xklrclhg87j6q"
+    },
+    {
+        "name": "Molly McNamara",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Molly_McNamra.jpg",
+        "actor": [
+            "Tricia Helfer"
+        ],
+        "episodes": [
+            "2.16 Roadkill"
+        ],
+        "occupation": [
+            "Ghost"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg87jon"
+    },
+    {
+        "name": "Mordechai Murdoch",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Mordechai_Murdoch.jpg",
+        "actor": [
+            "Nick Harrison"
+        ],
+        "episodes": [
+            "1.17 Hell House"
+        ],
+        "occupation": [
+            "Tulpa"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg87ky6"
+    },
+    {
+        "name": "Morph",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg87lm6"
+    },
+    {
+        "name": "Mrs. Butters",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Mrs.Butters.png",
+        "actor": [
+            "Megan Fay"
+        ],
+        "episodes": [
+            "15.14 Last Holiday"
+        ],
+        "occupation": [
+            "Wood Nymph"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg87mfp"
+    },
+    {
+        "name": "Musca",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Musca.png",
+        "actor": [],
+        "episodes": [
+            "14.06 Optimism"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "A brass nail dipped in sugar water or conventional means."
+        ],
+        "appearance": [
+            "Human body with the head of a fly."
+        ],
+        "powers": [
+            "Super strength"
+        ],
+        "id": "5441xklrclhg87n9g"
+    },
+    {
+        "name": "Myling",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [
+            "12.03 The Foundry"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Salting and burning of the ghost's physical remains"
+        ],
+        "appearance": [
+            "The form of the deceased"
+        ],
+        "powers": [
+            "Can imitate the cry of a baby"
+        ],
+        "id": "5441xklrclhg87ny4"
+    },
+    {
+        "name": "Nachzehrer",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Nachzehrer.png",
+        "actor": [],
+        "episodes": [
+            "11.04 Baby"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Silver, decapitation, copper pennies"
+        ],
+        "appearance": [
+            "Human"
+        ],
+        "powers": [
+            "Incredibly hard to kill"
+        ],
+        "id": "5441xklrclhg87oue"
+    },
+    {
+        "name": "Neil (Djinn)",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-DjinnNeil.png",
+        "actor": [
+            "Chris Patrick-Simpson"
+        ],
+        "episodes": [
+            "14.05 Nightmare Logic"
+        ],
+        "occupation": [
+            "Djinn",
+            "Nurse"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg87pnj"
+    },
+    {
+        "name": "Nick Munroe",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-NickMonroe.jpg",
+        "actor": [
+            "Jim Parrack"
+        ],
+        "episodes": [
+            "4.14 Sex and Violence"
+        ],
+        "occupation": [
+            "Siren"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg87q5p"
+    },
+    {
+        "name": "Nicky Mermaid",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-NickyMermaid.png",
+        "actor": [
+            "Ida Segerhagen"
+        ],
+        "episodes": [
+            "11.08 Just My Imagination"
+        ],
+        "occupation": [
+            "Zanna"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg87r2m"
+    },
+    {
+        "name": "Nightmare Creatures",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-NightmareCreature.png",
+        "actor": [],
+        "episodes": [
+            "14.05 Nightmare Logic"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Stabbing it in the heart will destroy it"
+        ],
+        "appearance": [
+            "Varies"
+        ],
+        "powers": [
+            "Impervious to most harm"
+        ],
+        "id": "5441xklrclhg87rz3"
+    },
+    {
+        "name": "Noah Ophis",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-NoahOphis.jpg",
+        "actor": [
+            "Philippe Bowgen"
+        ],
+        "episodes": [
+            "14.14 Ouroboros"
+        ],
+        "occupation": [
+            "Gorgon",
+            "Demigod"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg87sh0"
+    },
+    {
+        "name": "Nurse Forman",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Karla.jpg",
+        "actor": [
+            "Lara Gilchrist"
+        ],
+        "episodes": [
+            "5.11 Sam, Interrupted"
+        ],
+        "occupation": [
+            "Wraith",
+            "Nurse"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg87szi"
+    },
+    {
+        "name": "Okami",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Okami.jpg",
+        "actor": [],
+        "episodes": [
+            "6.04 Weekend at Bobby's"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Bamboo dagger blessed by a Shinto priest."
+        ],
+        "appearance": [
+            "Humanoid with fangs"
+        ],
+        "powers": [
+            "Strong, agile, they hunt and feed on humans."
+        ],
+        "id": "5441xklrclhg87th2"
+    },
+    {
+        "name": "Olivia (Shapeshifter)",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Olivia1006.png",
+        "actor": [
+            "Izabella Miko",
+            "Wendy Abbott",
+            "Robert Underwood",
+            "Kevin McNulty"
+        ],
+        "episodes": [
+            "10.06 Ask Jeeves"
+        ],
+        "occupation": [
+            "Shapeshifter"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg87u9y"
+    },
+    {
+        "name": "Orbs",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg87uy9"
+    },
+    {
+        "name": "Ozone",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg87vmd"
+    },
+    {
+        "name": "P.T. Sandover",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-PTSandover.jpg",
+        "actor": [
+            "John Hainsworth"
+        ],
+        "episodes": [
+            "4.17 It's a Terrible Life"
+        ],
+        "occupation": [
+            "Sandover Bridge &amp; Iron Inc."
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg87w4k"
+    },
+    {
+        "name": "Pestilence",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Pestilence519.jpg",
+        "actor": [
+            "Matt Frewer"
+        ],
+        "episodes": [
+            "5.19 Hammer of the Gods",
+            "5.21 Two Minutes to Midnight"
+        ],
+        "occupation": [
+            "Horseman of the Apocalypse"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg87wmi"
+    },
+    {
+        "name": "Pete",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-7x20_Pete.png",
+        "actor": [
+            "David Stuart"
+        ],
+        "episodes": [
+            "7.20 The Girl with the Dungeons and Dragons Tattoo"
+        ],
+        "occupation": [
+            "Leviathan",
+            "Supervisor"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg87xjw"
+    },
+    {
+        "name": "Peter Sweeney",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Lake_Manitoc_Peter_Sweeney.png",
+        "actor": [
+            "Aaron Rota"
+        ],
+        "episodes": [
+            "1.03 Dead in the Water"
+        ],
+        "occupation": [
+            "Vengeful Spirit"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg87y5p"
+    },
+    {
+        "name": "Phantom Attacker",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg87yts"
+    },
+    {
+        "name": "Phantom Gassers",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg87zht"
+    },
+    {
+        "name": "Phantom Ghost Kid",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-GhostKid-Animated.png",
+        "actor": [
+            "Kegan Frith"
+        ],
+        "episodes": [
+            "13.16 Scoobynatural"
+        ],
+        "occupation": [
+            "Ghost"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg880ei"
+    },
+    {
+        "name": "Phantom Travelers",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg88134"
+    },
+    {
+        "name": "Philippe",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-WerewolfPhilippe.png",
+        "actor": [
+            "Ben Wilkinson"
+        ],
+        "episodes": [
+            "14.02 Gods and Monsters"
+        ],
+        "occupation": [
+            "Werewolf"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg881w4"
+    },
+    {
+        "name": "Phillippe LeChat",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Phillpe_lechat.jpg",
+        "actor": [
+            "Sebastian Gacki"
+        ],
+        "episodes": [
+            "8.15 Man's Best Friend with Benefits"
+        ],
+        "occupation": [
+            "Familiar"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg882eu"
+    },
+    {
+        "name": "Phoenix",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Phoenix.jpg",
+        "actor": [],
+        "episodes": [
+            "6.18 Frontierland"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "The Colt",
+            "Iron"
+        ],
+        "appearance": [
+            "Human"
+        ],
+        "powers": [
+            "Immortality",
+            "Incineration by touch"
+        ],
+        "id": "5441xklrclhg882ww"
+    },
+    {
+        "name": "Pishtaco",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Pishtaco.jpg",
+        "actor": [],
+        "episodes": [
+            "9.13 The Purge"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Silver"
+        ],
+        "appearance": [
+            "Human, with a  proboscis hidden in the mouth."
+        ],
+        "powers": [
+            "Able to suck fat out of victims; the more fat they consume the stronger they will become."
+        ],
+        "id": "5441xklrclhg883eo"
+    },
+    {
+        "name": "Poltergeist",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-MaggieBriggs.jpg",
+        "actor": [],
+        "episodes": [
+            "1.09 Home",
+            "5.12 Swap Meat"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Varies; one standard is the salting and burning of the ghost's physical remains. Purification rituals."
+        ],
+        "appearance": [
+            "Varies; the form of the deceased, which may have visible signs of trauma or decay."
+        ],
+        "powers": [
+            "Varies; can include telekinesis and possession."
+        ],
+        "id": "5441xklrclhg883wk"
+    },
+    {
+        "name": "Portia",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Screen_Shot_2013-02-26_at_7.08.41_PM_1.png",
+        "actor": [
+            "Mishael Morgan"
+        ],
+        "episodes": [
+            "8.15 Man's Best Friend with Benefits"
+        ],
+        "occupation": [
+            "Familiar"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg884pv"
+    },
+    {
+        "name": "Professor Ludensky",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Lundunsky804.jpg",
+        "actor": [
+            "David Lewis"
+        ],
+        "episodes": [
+            "8.04 Bitten"
+        ],
+        "occupation": [
+            "Werewolf",
+            "English Professor"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg8857z"
+    },
+    {
+        "name": "Qareen",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Qareen.png",
+        "actor": [],
+        "episodes": [
+            "11.13 Love Hurts"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Stabbing its heart"
+        ],
+        "appearance": [
+            "Human"
+        ],
+        "powers": [
+            "Shapshifting"
+        ],
+        "id": "5441xklrclhg88661"
+    },
+    {
+        "name": "Quentin",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-805quentin.jpg",
+        "actor": [
+            "Clayton Chitty"
+        ],
+        "episodes": [
+            "8.05 Blood Brother"
+        ],
+        "occupation": [
+            "Vampire"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg886o6"
+    },
+    {
+        "name": "Rabids",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Rabid-Mike.png",
+        "actor": [],
+        "episodes": [
+            "11.01 Out of the Darkness, Into the Fire",
+            "11.02 Form and Void",
+            "11.20 Don't Call Me Shurley"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Holy fire",
+            "Short lifespan"
+        ],
+        "appearance": [
+            "Human with black tendrils running up their necks and heads"
+        ],
+        "powers": [
+            "Increased aggression",
+            "Infectious blood"
+        ],
+        "id": "5441xklrclhg887la"
+    },
+    {
+        "name": "Rakshasa",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Rakshasa202.jpg",
+        "actor": [],
+        "episodes": [
+            "2.02 Everybody Loves a Clown"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "A knife of pure brass. Cannot enter a home without an invitation."
+        ],
+        "appearance": [
+            "Humanoid; can appear in any form it wants."
+        ],
+        "powers": [
+            "Shapeshifters that can make themselves invisible."
+        ],
+        "id": "5441xklrclhg88839"
+    },
+    {
+        "name": "Rawhead",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Rawhead01.jpg",
+        "actor": [],
+        "episodes": [
+            "1.12 Faith"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Electrocution"
+        ],
+        "appearance": [
+            "Humanoid with matted hair and pale eyes."
+        ],
+        "powers": [
+            "Superior strength"
+        ],
+        "id": "5441xklrclhg889ad"
+    },
+    {
+        "name": "Reapers",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Abandonallhopereapers.jpg",
+        "actor": [],
+        "episodes": [
+            "1.12 Faith",
+            "2.01 In My Time of Dying",
+            "4.15 Death Takes a Holiday",
+            "5.10 Abandon All Hope...",
+            "5.21 Two Minutes to Midnight",
+            "6.11 Appointment in Samarra",
+            "7.10 Death's Door",
+            "8.19 Taxi Driver",
+            "9.03 I'm No Angel",
+            "9.22 Stairway to Heaven",
+            "11.02 Form and Void",
+            "11.10 The Devil in the Details",
+            "11.17 Red Meat",
+            "11.23 Alpha and Omega",
+            "12.06 Celebrating the Life of Asa Fox",
+            "12.09 First Blood",
+            "13.05 Advanced Thanatology",
+            "13.19 Funeralia",
+            "14.10 Nihilism",
+            "15.12 Galaxy Brain",
+            "15.17 Unity"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Death's scythe",
+            "Angel blades",
+            "Spells"
+        ],
+        "appearance": [
+            "Can alter how humans perceive them, can possess someone, or manifest in a physical body."
+        ],
+        "powers": [
+            "souls",
+            "Teleportation",
+            "Alter perception"
+        ],
+        "id": "5441xklrclhg889w9"
+    },
+    {
+        "name": "Revenant",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg88aku"
+    },
+    {
+        "name": "Reverend Jim Myers",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-ReverendJim.jpg",
+        "actor": [
+            "Tom Butler"
+        ],
+        "episodes": [
+            "9.12 Sharp Teeth"
+        ],
+        "occupation": [
+            "Werewolf",
+            "Reverend"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg88b3i"
+    },
+    {
+        "name": "Richard Beesome",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-RichardBeesome.png",
+        "actor": [
+            "Ben Cotton"
+        ],
+        "episodes": [
+            "11.12 Don't You Forget About Me"
+        ],
+        "occupation": [
+            "Vampire",
+            "Janitor"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg88bwo"
+    },
+    {
+        "name": "Rise of the Witnesses",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/300px-Mark_of_the_Witness.jpg",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg88cef"
+    },
+    {
+        "name": "Robert",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-RobertVamp.jpg",
+        "actor": [
+            "Charlie Carrick"
+        ],
+        "episodes": [
+            "6.05 Live Free or Twihard"
+        ],
+        "occupation": [
+            "Vampire"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg88cwl"
+    },
+    {
+        "name": "Ronald Reznick",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-RReznik.jpg",
+        "actor": [
+            "Chris Gauthier"
+        ],
+        "episodes": [
+            "2.12 Nightshifter",
+            "4.02 Are You There God? It's Me, Dean Winchester"
+        ],
+        "occupation": [
+            "Witness",
+            "Security guard"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg88deu"
+    },
+    {
+        "name": "Rose (Werewolf)",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Rose-Werewolf.png",
+        "actor": [
+            "Suki Kaiser"
+        ],
+        "episodes": [
+            "11.17 Red Meat"
+        ],
+        "occupation": [
+            "Werewolf",
+            "Bartender"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg88e7j"
+    },
+    {
+        "name": "Rose Brown",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/Rose_Brown.jpg",
+        "actor": [
+            "Christina Sicoli"
+        ],
+        "episodes": [
+            "6.14 Mannequin 3: The Reckoning"
+        ],
+        "occupation": [
+            "Vengeful Spirit"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg88eso"
+    },
+    {
+        "name": "Rugaru",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Rugaru404.jpg",
+        "actor": [],
+        "episodes": [
+            "4.04 Metamorphosis",
+            "6.10 Caged Heat",
+            "8.02 What's Up, Tiger Mommy?",
+            "12.13 Family Feud",
+            "14.10 Nihilism"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Fire",
+            "Sonic vibrations"
+        ],
+        "appearance": [
+            "Humanoid with wormy skin, rotted teeth and black eyes (after feeding)."
+        ],
+        "powers": [
+            "Enhanced senses",
+            "Enhanced strength"
+        ],
+        "id": "5441xklrclhg88faq"
+    },
+    {
+        "name": "Russ",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Russ.jpg",
+        "actor": [
+            "Adam Lolacher"
+        ],
+        "episodes": [
+            "9.12 Sharp Teeth"
+        ],
+        "occupation": [
+            "Werewolf"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg88ft1"
+    },
+    {
+        "name": "Sailor’s Ghost",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-SailorGhost-2.jpg",
+        "actor": [
+            "Steve Lawlor"
+        ],
+        "episodes": [
+            "3.06 Red Sky at Morning"
+        ],
+        "occupation": [
+            "Vengeful Spirit",
+            "Sailor"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg88gb5"
+    },
+    {
+        "name": "Sal Lassiter",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Sal.png",
+        "actor": [
+            "Bryce Johnson"
+        ],
+        "episodes": [
+            "9.20 Bloodlines"
+        ],
+        "occupation": [
+            "Shapeshifter"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg88h7r"
+    },
+    {
+        "name": "Sally",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Sally.jpg",
+        "actor": [
+            "Meghan Ory"
+        ],
+        "episodes": [
+            "7.11 Adventures in Babysitting"
+        ],
+        "occupation": [
+            "Vetala"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg88hp3"
+    },
+    {
+        "name": "Sam and Castiel Fitzgerald",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Sam&CastielFitzgerald.png",
+        "actor": [
+            "Austin Brody",
+            "William Brody"
+        ],
+        "episodes": [
+            "15.10 The Heroes' Journey"
+        ],
+        "occupation": [
+            "Werewolves"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg88ily"
+    },
+    {
+        "name": "Sanford Ellicott",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Ellicott.JPG",
+        "actor": [
+            "Norman Armour"
+        ],
+        "episodes": [
+            "1.10 Asylum"
+        ],
+        "occupation": [
+            "Ghost",
+            "Psychiatrist"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg88j4h"
+    },
+    {
+        "name": "Scarecrow (creature)",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/Scarcrow01.jpg",
+        "actor": [],
+        "episodes": [
+            "1.11 Scarecrow"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "The destruction of the sacred tree it is bound to."
+        ],
+        "appearance": [
+            "Humanoid; made up of the flesh of its victims."
+        ],
+        "powers": [
+            "When given human sacrifice, can ensure the prosperity of its environs. Possession."
+        ],
+        "id": "5441xklrclhg88jrv"
+    },
+    {
+        "name": "Scarecrow (Fan Fiction)",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Scarecrow-1005.png",
+        "actor": [],
+        "episodes": [
+            "10.05 Fan Fiction"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Calliope"
+        ],
+        "appearance": [
+            "Large humanoid scarecrow"
+        ],
+        "powers": [
+            "Strength, can walk through walls, produce vines from his body for the purpose of capturing victims"
+        ],
+        "id": "5441xklrclhg88klm"
+    },
+    {
+        "name": "Seth",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Seth.jpg",
+        "actor": [
+            "Cole Vigue"
+        ],
+        "episodes": [
+            "8.18 Freaks and Geeks"
+        ],
+        "occupation": [
+            "Vampire"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg88l46"
+    },
+    {
+        "name": "Shadow Spirits",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-ShadowSpirit.png",
+        "actor": [],
+        "episodes": [
+            "1.11 You've Got a Friend"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "The truth"
+        ],
+        "appearance": [
+            "Shadowy humanoid figures"
+        ],
+        "powers": [
+            "Shapeshifting"
+        ],
+        "id": "5441xklrclhg88ltc"
+    },
+    {
+        "name": "Shapeshifters",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Skintwo.jpg",
+        "actor": [],
+        "episodes": [
+            "1.06 Skin",
+            "2.12 Nightshifter",
+            "4.05 Monster Movie",
+            "6.02 Two and a Half Men",
+            "6.10 Caged Heat",
+            "6.19 Mommy Dearest",
+            "9.16 Blade Runners",
+            "9.20 Bloodlines",
+            "10.06 Ask Jeeves",
+            "12.20 Twigs &amp; Twine &amp; Tasha Banes",
+            "13.04 The Big Empty",
+            "14.10 Nihilism",
+            "15.10 The Heroes' Journey"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Silver"
+        ],
+        "appearance": [
+            "Humanoid; can appear as any person they see or come into contact with."
+        ],
+        "powers": [
+            "Shapeshifting",
+            "Telepathy"
+        ],
+        "id": "5441xklrclhg88mfq"
+    },
+    {
+        "name": "Shawn Raider",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-ShawnRaider.png",
+        "actor": [
+            "Seth Isaac Johnson"
+        ],
+        "episodes": [
+            "13.05 Advanced Thanatology"
+        ],
+        "occupation": [
+            "Ghost"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg88ncn"
+    },
+    {
+        "name": "Sheriff Alden Roy",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-SheriffDjinn.png",
+        "actor": [
+            "Art Kitching"
+        ],
+        "episodes": [
+            "15.06 Golden Time"
+        ],
+        "occupation": [
+            "Djinn",
+            "Sheriff"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg88o5z"
+    },
+    {
+        "name": "Sheriff Len Cuse",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-SheriffLenCuse.png",
+        "actor": [
+            "Fred Ewanuick"
+        ],
+        "episodes": [
+            "10.08 Hibbing 911"
+        ],
+        "occupation": [
+            "Vampire",
+            "Sheriff"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg88p30"
+    },
+    {
+        "name": "Sheriff Pat",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-SheriffPat.jpg",
+        "actor": [
+            "Matt Hamilton"
+        ],
+        "episodes": [
+            "9.12 Sharp Teeth"
+        ],
+        "occupation": [
+            "Werewolf",
+            "Sheriff"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg88plg"
+    },
+    {
+        "name": "Shojo",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/Shojo.jpg",
+        "actor": [],
+        "episodes": [
+            "7.18 Party On, Garth"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Samurai sword consecrated by a Shinto blessing"
+        ],
+        "appearance": [
+            "Human"
+        ],
+        "powers": [
+            "Telekinesis",
+            "Superhuman strength"
+        ],
+        "id": "5441xklrclhg88qb8"
+    },
+    {
+        "name": "Sirens",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Siren414.jpg",
+        "actor": [],
+        "episodes": [
+            "4.14 Sex and Violence"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Mirrors",
+            "Bronze dagger"
+        ],
+        "appearance": [
+            "Humanoid with pale skin, hollow eyes, and a fused mouth. Can appear human."
+        ],
+        "powers": [
+            "Shapeshifting",
+            "Telepathy"
+        ],
+        "id": "5441xklrclhg88qug"
+    },
+    {
+        "name": "Skinwalker",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Luckyman.jpg",
+        "actor": [],
+        "episodes": [
+            "6.08 All Dogs Go to Heaven"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Silver"
+        ],
+        "appearance": [
+            "Human or canine"
+        ],
+        "powers": [
+            "Can morph into a canine at any time. Superior sense of smell."
+        ],
+        "id": "5441xklrclhg88rcn"
+    },
+    {
+        "name": "Sorento",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-805serento.jpg",
+        "actor": [
+            "Luc Roderique"
+        ],
+        "episodes": [
+            "8.05 Blood Brother"
+        ],
+        "occupation": [
+            "Vampire"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg88rug"
+    },
+    {
+        "name": "Soucouyant",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Soucouyant.png",
+        "actor": [],
+        "episodes": [
+            "1.06 Art of Dying"
+        ],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [
+            "Pale humanoid"
+        ],
+        "powers": [],
+        "id": "5441xklrclhg88sng"
+    },
+    {
+        "name": "Soul Eater",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-SoulEater.png",
+        "actor": [],
+        "episodes": [
+            "11.16 Safe House"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Celtic Sigil Trap",
+            "Soul Eater Killing Sigil"
+        ],
+        "appearance": [
+            "Pale human with black empty eyes"
+        ],
+        "powers": [
+            "Consumes souls"
+        ],
+        "id": "5441xklrclhg88tgi"
+    },
+    {
+        "name": "Sparkle",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Sparkle_the_manicorn.png",
+        "actor": [
+            "Everrett Shea"
+        ],
+        "episodes": [
+            "11.08 Just My Imagination"
+        ],
+        "occupation": [
+            "Zanna"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg88uhy"
+    },
+    {
+        "name": "Spectre",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Vancecollins806.jpg",
+        "actor": [],
+        "episodes": [
+            "8.06 Southern Comfort"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Varies; salting and burning the physical remains or object they are tethered to."
+        ],
+        "appearance": [
+            "Varies; the form of the deceased, which may have visible signs of trauma or decay."
+        ],
+        "powers": [
+            "Possession, fuel a person's anger."
+        ],
+        "id": "5441xklrclhg88v00"
+    },
+    {
+        "name": "Spooks",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg88voi"
+    },
+    {
+        "name": "Spring-heeled Jack",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg88wcs"
+    },
+    {
+        "name": "Starr",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Starr.png",
+        "actor": [
+            "Morgan Taylor Campbell"
+        ],
+        "episodes": [
+            "10.08 Hibbing 911"
+        ],
+        "occupation": [
+            "Vampire"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg88xa2"
+    },
+    {
+        "name": "Succubi",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg88xzf"
+    },
+    {
+        "name": "Sully",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Sully.png",
+        "actor": [
+            "Nate Torrence"
+        ],
+        "episodes": [
+            "11.08 Just My Imagination"
+        ],
+        "occupation": [
+            "Zanna"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg88ywh"
+    },
+    {
+        "name": "Susan",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/LeviSusan.jpg",
+        "actor": [
+            "Olivia Cheng"
+        ],
+        "episodes": [
+            "7.09 How to Win Friends and Influence Monsters",
+            "7.22 There Will Be Blood",
+            "7.23 Survival of the Fittest"
+        ],
+        "occupation": [
+            "Leviathan",
+            "Personal assistant"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg88zhw"
+    },
+    {
+        "name": "Tarrell",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Tarrell.jpg",
+        "actor": [
+            "Nickolas Baric",
+            "David Stuart"
+        ],
+        "episodes": [
+            "7.20 The Girl with the Dungeons and Dragons Tattoo"
+        ],
+        "occupation": [
+            "Leviathan"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg8900m"
+    },
+    {
+        "name": "Tasha",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Tasha.png",
+        "actor": [
+            "Emily Tennant"
+        ],
+        "episodes": [
+            "10.04 Paper Moon"
+        ],
+        "occupation": [
+            "Werewolf"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg890ud"
+    },
+    {
+        "name": "Teddy the Suicidal Teddy Bear",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Teddy.jpg",
+        "actor": [
+            "Michael Teigen"
+        ],
+        "episodes": [
+            "4.08 Wishful Thinking"
+        ],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg891cn"
+    },
+    {
+        "name": "Tessa",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-TessaReaper.jpg",
+        "actor": [
+            "Lindsey McKeon"
+        ],
+        "episodes": [
+            "2.01 In My Time of Dying",
+            "4.15 Death Takes a Holiday",
+            "6.11 Appointment in Samarra",
+            "9.22 Stairway to Heaven"
+        ],
+        "occupation": [
+            "Reaper"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg891uy"
+    },
+    {
+        "name": "The Reaper",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Reaper.jpeg",
+        "actor": [
+            "Alex Diakun"
+        ],
+        "episodes": [
+            "1.12 Faith"
+        ],
+        "occupation": [
+            "Reaper"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg892db"
+    },
+    {
+        "name": "The Shapeshifter",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-ShifterDean.jpg",
+        "actor": [
+            "Aleks Holtz",
+            "Peter Shinkoda",
+            "Jensen Ackles",
+            "Amy Grabow"
+        ],
+        "episodes": [
+            "1.06 Skin"
+        ],
+        "occupation": [
+            "Shapeshifter"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg892w3"
+    },
+    {
+        "name": "Thought Forms/Psychic Projections",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg893kk"
+    },
+    {
+        "name": "Timmy%27s Mother",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-GhostMom.jpg",
+        "actor": [
+            "Alika Autran",
+            "Jen Oleksiuk"
+        ],
+        "episodes": [
+            "9.07 Bad Boys"
+        ],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg8942j"
+    },
+    {
+        "name": "Tony Monroe",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-TonyMonroe.png",
+        "actor": [
+            "Tyler Lofton"
+        ],
+        "episodes": [
+            "1.05 Legend of a Mind"
+        ],
+        "occupation": [
+            "Djinn"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg894zs"
+    },
+    {
+        "name": "Tooth Fairy",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg895o2"
+    },
+    {
+        "name": "Toys",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg896dk"
+    },
+    {
+        "name": "Twigs %26 Twine Doll",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Twigs&TwineDoll.png",
+        "actor": [],
+        "episodes": [
+            "12.20 Twigs &amp; Twine &amp; Tasha Banes"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Destroyed when their creator dies."
+        ],
+        "appearance": [
+            "Mass of twigs in the shape of a human; human after spell is performed."
+        ],
+        "powers": [
+            "Impervious to damage."
+        ],
+        "id": "5441xklrclhg897ao"
+    },
+    {
+        "name": "Undead",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg897zn"
+    },
+    {
+        "name": "Unicorns",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg898nz"
+    },
+    {
+        "name": "Vampirates",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg899bz"
+    },
+    {
+        "name": "Vampires",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-LenoreVamp.jpg",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [
+            "Bloodlust",
+            "Dead man's blood",
+            "The Colt"
+        ],
+        "appearance": [
+            "Human with retractable fangs."
+        ],
+        "powers": [
+            "Enhanced senses",
+            "Superhuman strength",
+            "Retractable fangs"
+        ],
+        "id": "5441xklrclhg899xt"
+    },
+    {
+        "name": "Vance",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Vance.png",
+        "actor": [
+            "Sam Robert Muik"
+        ],
+        "episodes": [
+            "14.06 Optimism"
+        ],
+        "occupation": [
+            "Zombie"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg89bfv"
+    },
+    {
+        "name": "Vance Collins",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Vancecollins806.jpg",
+        "actor": [
+            "Nathan Dashwood"
+        ],
+        "episodes": [
+            "8.06 Southern Comfort"
+        ],
+        "occupation": [
+            "Spectre",
+            "Confederate Soldier"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg89bxi"
+    },
+    {
+        "name": "Vengeful Spirits",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg89cn8"
+    },
+    {
+        "name": "Vetala",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Vetala.jpg",
+        "actor": [],
+        "episodes": [
+            "7.11 Adventures in Babysitting"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Can be killed with a silver knife to the heart"
+        ],
+        "appearance": [
+            "Humanoid with snake-like eyes with a vertical iris and four pointed fangs, will revert to a reptilian look upon death."
+        ],
+        "powers": [
+            "Strong and produce venom"
+        ],
+        "id": "5441xklrclhg89d7e"
+    },
+    {
+        "name": "Victor!Leviathan",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-LeviVic.jpg",
+        "actor": [
+            "Darcy Laurie"
+        ],
+        "episodes": [
+            "7.20 The Girl with the Dungeons and Dragons Tattoo"
+        ],
+        "occupation": [
+            "Leviathan"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg89dq7"
+    },
+    {
+        "name": "Victoria Dodd",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-VictoriaDodd.jpg",
+        "actor": [
+            "Elysia Rotaru"
+        ],
+        "episodes": [
+            "7.19 Of Grave Importance"
+        ],
+        "occupation": [
+            "Ghost",
+            "Death Omen"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg89e7w"
+    },
+    {
+        "name": "Violet",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Violet.jpg",
+        "actor": [
+            "Panta Mosleh"
+        ],
+        "episodes": [
+            "14.10 Nihilism"
+        ],
+        "occupation": [
+            "Reaper"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg89eqq"
+    },
+    {
+        "name": "Violet Duval",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Violetdurrant.png",
+        "actor": [
+            "Melissa Roxburgh"
+        ],
+        "episodes": [
+            "9.20 Bloodlines"
+        ],
+        "occupation": [
+            "Werewolf"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg89fjz"
+    },
+    {
+        "name": "War",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Horseman_War.jpg",
+        "actor": [
+            "Titus Welliver"
+        ],
+        "episodes": [
+            "5.02 Good God, Y'All"
+        ],
+        "occupation": [
+            "Horseman of the Apocalypse"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg89g4p"
+    },
+    {
+        "name": "Water Wraith",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg89hi4"
+    },
+    {
+        "name": "Wayne Whittaker",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-WayneWhittaker.jpg",
+        "actor": [
+            "Robert Picardo"
+        ],
+        "episodes": [
+            "6.09 Clap Your Hands If You Believe..."
+        ],
+        "occupation": [
+            "Leprechaun"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg89i03"
+    },
+    {
+        "name": "Weems",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Weems.png",
+        "actor": [
+            "Ed Witzke"
+        ],
+        "episodes": [
+            "11.08 Just My Imagination"
+        ],
+        "occupation": [
+            "Zanna"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg89ipo"
+    },
+    {
+        "name": "Wendigo (creature)",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Wendigo3.png",
+        "actor": [],
+        "episodes": [
+            "1.02 Wendigo"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Anasazi",
+            "Silver-tipped Bows and Arrows"
+        ],
+        "appearance": [
+            "Humanoid; tall and pale with elongated limbs."
+        ],
+        "powers": [
+            "Enhanced strength and speed. It can imitate human voices to lure in its victims, which it traps and keeps alive for long periods so that it can feed from them."
+        ],
+        "id": "5441xklrclhg89jn4"
+    },
+    {
+        "name": "Werewolves",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Werewolf.png",
+        "actor": [],
+        "episodes": [
+            "2.17 Heart",
+            "8.04 Bitten",
+            "9.12 Sharp Teeth",
+            "9.20 Bloodlines",
+            "10.04 Paper Moon",
+            "11.17 Red Meat",
+            "12.16 Ladies Drink Free",
+            "13.10 Wayward Sisters",
+            "14.02 Gods and Monsters",
+            "14.09 The Spear",
+            "15.05 Proverbs 17:3",
+            "15.08 Our Father, Who Aren't in Heaven",
+            "15.10 The Heroes' Journey"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Silver",
+            "Vamptonite"
+        ],
+        "appearance": [
+            "Human, except when under the influence of a full moon, when they have yellow eyes, fangs, and claws."
+        ],
+        "powers": [
+            "Enhanced senses",
+            "Infectious bite",
+            "Regeneration"
+        ],
+        "id": "5441xklrclhg89knu"
+    },
+    {
+        "name": "Whitman Van Ness",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Whitman_Van_Ness.jpg",
+        "actor": [
+            "Antonio Cupo"
+        ],
+        "episodes": [
+            "7.19 Of Grave Importance"
+        ],
+        "occupation": [
+            "Ghost",
+            "Serial Killer"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg89l5t"
+    },
+    {
+        "name": "Whore of Babylon",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-WhoreofBabylon.png",
+        "actor": [
+            "Kayla Mae Maloney"
+        ],
+        "episodes": [
+            "5.17 99 Problems"
+        ],
+        "occupation": [
+            "Apocalyptic creature"
+        ],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg89m0l"
+    },
+    {
+        "name": "Witnesses",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/300px-Mark_of_the_Witness.jpg",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg89n8l"
+    },
+    {
+        "name": "Woman in White",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Woman_in_White.png",
+        "actor": [],
+        "episodes": [
+            "1.01 Pilot",
+            "14.20 Moriah",
+            "15.01 Back and to the Future"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Iron",
+            "Salt"
+        ],
+        "appearance": [
+            "Woman dressed in white dress."
+        ],
+        "powers": [
+            "Telekinesis",
+            "Possession"
+        ],
+        "id": "5441xklrclhg89o5g"
+    },
+    {
+        "name": "Wood Nymph",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-WoodNymph.png",
+        "actor": [],
+        "episodes": [
+            "15.14 Last Holiday"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Warding Sigils"
+        ],
+        "appearance": [
+            "Humanoid"
+        ],
+        "powers": [
+            "Telekinesis",
+            "Super strength"
+        ],
+        "id": "5441xklrclhg89ov8"
+    },
+    {
+        "name": "Wraith",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Wraith.jpg",
+        "actor": [],
+        "episodes": [
+            "5.11 Sam, Interrupted",
+            "6.19 Mommy Dearest",
+            "9.20 Bloodlines",
+            "13.03 Patience",
+            "14.19 Jack in the Box",
+            "15.10 The Heroes' Journey"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Silver",
+            "Mirrors",
+            "Severe brain damage"
+        ],
+        "appearance": [
+            "Humanoid with sagging, decaying flesh. Can appear human."
+        ],
+        "powers": [
+            "Can alter human perception. Feeds on its victim's brains with a thin, organic spike that protrudes from the wrist."
+        ],
+        "id": "5441xklrclhg89pcw"
+    },
+    {
+        "name": "Wraith-like Figure/Wraith Shadow",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/placeholder-image.png",
+        "actor": [],
+        "episodes": [],
+        "occupation": [],
+        "vulnerabilities": [],
+        "appearance": [],
+        "powers": [],
+        "id": "5441xklrclhg89q1b"
+    },
+    {
+        "name": "Zanna",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-Sparkle_the_manicorn.png",
+        "actor": [],
+        "episodes": [
+            "11.08 Just My Imagination"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Special knife etched in sigils"
+        ],
+        "appearance": [
+            "Varying"
+        ],
+        "powers": [
+            "Invisibility, teleportation, telepathic link to other zanna"
+        ],
+        "id": "5441xklrclhg89qyr"
+    },
+    {
+        "name": "Zombie",
+        "img": "https://supernatural-quotes-api.cyclic.app/images/350px-AngelaMasonZombie.jpg",
+        "actor": [],
+        "episodes": [
+            "2.04 Children Shouldn't Play with Dead Things",
+            "2.09 Croatoan",
+            "4.07 It's the Great Pumpkin, Sam Winchester",
+            "5.04 The End",
+            "5.20 The Devil You Know",
+            "5.15 Dead Men Don't Wear Plaid",
+            "5.21 Two Minutes to Midnight",
+            "7.09 How to Win Friends and Influence Monsters",
+            "8.13 Everybody Hates Hitler",
+            "13.12 Various &amp; Sundry Villains",
+            "14.06 Optimism",
+            "14.20 Moriah"
+        ],
+        "occupation": [],
+        "vulnerabilities": [
+            "Silver",
+            "Headshot"
+        ],
+        "appearance": [
+            "Human"
+        ],
+        "powers": [
+            "Invulnerability",
+            "Superhuman strength"
+        ],
+        "id": "5441xklrclhg89rki"
+    }
+]
 }

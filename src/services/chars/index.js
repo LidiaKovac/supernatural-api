@@ -5,8 +5,24 @@ export const charRouter = Router()
 
 charRouter.get("/all", async (req, res, next) => {
   try {
+    console.log(req.query)
+    // const props = ["name", "img", "actor", "episodes", "occupation"]
+    const keys = Object.keys(req.query)
     const data = await db.data.characters
-    res.send(data)
+    const result = []
+
+    for (const char of data) {
+      if (
+        char.name.toLowerCase().includes(req.query.name?.toLowerCase() || "") &&
+        char.actor?.join()?.toLowerCase().includes(req.query.actor?.toLowerCase()  || "") && 
+        char.episodes.join()?.toLowerCase().includes(req.query.episodes?.toLowerCase()  || "") && 
+        char.occupation.join()?.toLowerCase().includes(req.query.occupation?.toLowerCase()  || "")
+      ) {
+        result.push(char)
+      }
+    }
+
+    res.send(result)
   } catch (error) {
     next(error)
     console.error(error)
