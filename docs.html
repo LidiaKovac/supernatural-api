@@ -155,7 +155,15 @@
             <span class="badge text-bg-danger">GET</span> all characters
           </h3>
           <pre>/characters/all</pre>
-          <h4>Example data:</h4>
+          <h4>Query params: </h4>
+          It's possible to use query params to perform a research. <br>
+          Here are the available properties: 
+          <pre>?name=''&actor=''&episodes=''&occupation=''</pre>
+          <span class="badge text-bg-warning">To search by episode</span> you can either enter the episode name or the episode number, with the following format:
+          <pre>?episodes=7.06</pre>
+          <pre>?episodes=slash fiction</pre>
+          <span class="badge text-bg-danger">Searching by episode will bring up similar episode numbers.</span> For example <pre style="display: inline; padding: 0; border: none;"> ?episodes=5.04 </pre> will also give back characters that appeared in 15.04
+          <h4 class="mt-4">Example data:</h4>
           <pre>
 [
   {
