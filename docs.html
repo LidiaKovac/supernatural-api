@@ -45,12 +45,12 @@
           <a class="list-group-item option ps-5 text-white bg-transparent border-0" href="#random"
             onclick="activateTab(event)"> <i class="bi bi-chat-dots"></i> <b> GET </b> random quote</a>
 
-            <a class="list-group-item ps-5 text-white border-0 bg-danger fw-bold"> Characters</a>
-            <a class="list-group-item option ps-5 text-white bg-transparent active border-0" onclick="activateTab(event)"
-              href="#allchars"> <i class="bi bi-chat-dots"></i> <b> GET </b> all characters</a>
-            <a class="list-group-item option ps-5 text-white bg-transparent border-0" href="#charid"
-              onclick="activateTab(event)"> <i class="bi bi-chat-dots"></i> <b> GET </b> character by id</a>
-            </ul>
+          <a class="list-group-item ps-5 text-white border-0 bg-danger fw-bold"> Characters</a>
+          <a class="list-group-item option ps-5 text-white bg-transparent active border-0" onclick="activateTab(event)"
+            href="#allchars"> <i class="bi bi-chat-dots"></i> <b> GET </b> all characters</a>
+          <a class="list-group-item option ps-5 text-white bg-transparent border-0" href="#charid"
+            onclick="activateTab(event)"> <i class="bi bi-chat-dots"></i> <b> GET </b> character by id</a>
+        </ul>
       </div>
       <div class="col-12 col-lg-10 py-5 px-4" id="docs">
 
@@ -79,13 +79,13 @@
           <span class="badge text-bg-danger">SPOILER ALERT!</span> This API
           features quotes from the original source as well as The Winchesters.
         </p>
-        
+
         <h3 class="mt-2">Base endpoint:</h3>
         <pre>https://supernatural-quotes-api.cyclic.app</pre>
         <section id="all">
           <h2>Quotes</h2>
           <h3><span class="badge text-bg-danger">GET</span> all quotes</h3>
-          <pre>/quotes/all</pre>
+          <pre>/quotes</pre>
           <h4>Example data:</h4>
           <pre>
 {
@@ -147,15 +147,19 @@
           <h3>
             <span class="badge text-bg-danger">GET</span> all characters
           </h3>
-          <pre>/characters/all</pre>
+          <pre>/characters</pre>
           <h4>Query params: </h4>
           It's possible to use query params to perform a research. <br>
-          Here are the available properties: 
+          Here are the available properties:
           <pre>?name=''&actor=''&episodes=''&occupation=''</pre>
-          <span class="badge text-bg-warning">To search by episode</span> you can either enter the episode name or the episode number, with the following format:
+          <span class="badge text-bg-warning">To search by episode</span> you can either enter the episode name or the
+          episode number, with the following format:
           <pre>?episodes=7.06</pre>
           <pre>?episodes=slash fiction</pre>
-          <span class="badge text-bg-danger">Searching by episode will bring up similar episode numbers.</span> For example <pre style="display: inline; padding: 0; border: none;"> ?episodes=5.04 </pre> will also give back characters that appeared in 15.04
+          <span class="badge text-bg-danger">Searching by episode will bring up similar episode numbers.</span> For
+          example
+          <pre style="display: inline; padding: 0; border: none;"> ?episodes=5.04 </pre> will also give back characters
+          that appeared in 15.04
           <h4 class="mt-4">Example data:</h4>
           <pre>
 {
