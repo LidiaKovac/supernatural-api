@@ -4,7 +4,7 @@ import { paginate } from "../../utils/index.js"
 
 export const quotesRouter = Router()
 
-quotesRouter.get("/all", async (req, res, next) => {
+quotesRouter.get("/", async (req, res, next) => {
   try {
     const data = await db.data.quotes
     let result = []
@@ -13,11 +13,11 @@ quotesRouter.get("/all", async (req, res, next) => {
     res.send({
       data: result,
       next:
-        "https://supernatural-quotes-api.cyclic.app/quotes/all?page=" +
+        "https://supernatural-quotes-api.cyclic.app/quotes?page=" +
         (isNaN((Number(req.query.page) + 1)) ? 2 : (Number(req.query.page) + 1)),
       prev:
         Number(req.query.page) > 1
-          ? "https://supernatural-quotes-api.cyclic.app/quotes/all?page=" +
+          ? "https://supernatural-quotes-api.cyclic.app/quotes?page=" +
           (Number(req.query.page) - 1)
           : null,
       count: data.length,

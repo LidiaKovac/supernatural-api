@@ -4,7 +4,7 @@ import stringSimilarity from "string-similarity"
 import { paginate } from "../../utils/index.js"
 export const charRouter = Router()
 
-charRouter.get("/all", async (req, res, next) => {
+charRouter.get("/", async (req, res, next) => {
   try {
     console.log(req.query)
     // const props = ["name", "img", "actor", "episodes", "occupation"]
@@ -34,11 +34,11 @@ charRouter.get("/all", async (req, res, next) => {
     res.send({
       data: result,
       next:
-        "https://supernatural-quotes-api.cyclic.app/characters/all?page=" +
+        "https://supernatural-quotes-api.cyclic.app/characters?page=" +
         (isNaN((Number(req.query.page) + 1)) ? 2 : (Number(req.query.page) + 1)),
       prev:
         Number(req.query.page) > 1
-          ? "https://supernatural-quotes-api.cyclic.app/characters/all?page=" +
+          ? "https://supernatural-quotes-api.cyclic.app/characters?page=" +
           (Number(req.query.page) - 1)
           : null,
       count: data.length,
