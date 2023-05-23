@@ -49,20 +49,26 @@ charRouter.get("/", async (req, res, next) => {
   }
 })
 
-// charRouter.put("/connect", async (req, res, next) => {
-//   try {
-//     for (const char of await db.data.characters) {
-//       char.episodes = char.episodes.map(el => {
-//         return db.data.episodes.find(e => e.season + "." + e.ep + " " + e.title === el)?.id
-//       })
-//     }
-//     db.write()
-//     res.send(db.data.characters)
-//   } catch (error) {
-//     next(error)
-//     console.log(error)
-//   }
-// })
+charRouter.put("/connect", async (req, res, next) => {
+  try {
+    const episodes = await db.data.episodes
+    for (const char of await db.data.characters) {
+      char.episodes = char.episodes.map(async el => {
+        // console.log(db.data.episodes);
+        const foundEp = episodes.find(e => (e.season + "." + e.ep + " " + e.title) === el)
+        console.log(foundEp);
+        return {
+          title: el,
+          id: foundEp.id}
+      })
+    }
+    db.write()
+    res.send(db.data.characters)
+  } catch (error) {
+    next(error)
+    console.log(error)
+  }
+})
 
 charRouter.get("/:id", async (req, res, next) => {
   try {
