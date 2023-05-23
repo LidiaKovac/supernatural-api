@@ -48,46 +48,46 @@ charRouter.get("/", async (req, res, next) => {
     console.error(error)
   }
 })
-charRouter.put("/clean", async(req,res,next) => {
-  try {
-    const newA = []
-    for (const c of db.data.characters) {
-      if(!newA.map(e => e.id).includes(c.id)) {
-        newA.push(c)
-      }
-    }
-    db.data.characters = newA
-    await db.write()
-    res.send(201)
-  } catch (error) {
+// charRouter.put("/clean", async(req,res,next) => {
+//   try {
+//     const newA = []
+//     for (const c of db.data.characters) {
+//       if(!newA.map(e => e.id).includes(c.id)) {
+//         newA.push(c)
+//       }
+//     }
+//     db.data.characters = newA
+//     await db.write()
+//     res.send(201)
+//   } catch (error) {
     
-  }
-})
+//   }
+// })
 
-charRouter.put("/connect", async (req, res, next) => {
-  try {
-    const episodes = await db.data.episodes
-    for (const char of db.data.characters) {
-      char.episodes = char.episodes.map((el) => {
-        // console.log(db.data.episodes);
-        const foundEp = episodes.find(
-          (e) => e.season + "." + e.ep === el.split(" ")[0]
-        )
-        // console.log(foundEp)
-        return {
-          title: el,
-          id: foundEp?.id || "N/A",
-        }
-      })
-      console.log(await char.episodes)
-    }
-    await db.write()
-    res.send(db.data.characters)
-  } catch (error) {
-    next(error)
-    console.log(error)
-  }
-})
+// charRouter.put("/connect", async (req, res, next) => {
+//   try {
+//     const episodes = await db.data.episodes
+//     for (const char of db.data.characters) {
+//       char.episodes = char.episodes.map((el) => {
+//         // console.log(db.data.episodes);
+//         const foundEp = episodes.find(
+//           (e) => e.season + "." + e.ep === el.split(" ")[0]
+//         )
+//         // console.log(foundEp)
+//         return {
+//           title: el,
+//           id: foundEp?.id || "N/A",
+//         }
+//       })
+//       console.log(await char.episodes)
+//     }
+//     await db.write()
+//     res.send(db.data.characters)
+//   } catch (error) {
+//     next(error)
+//     console.log(error)
+//   }
+// })
 
 charRouter.get("/:id", async (req, res, next) => {
   try {
