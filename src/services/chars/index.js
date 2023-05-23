@@ -48,6 +48,21 @@ charRouter.get("/", async (req, res, next) => {
     console.error(error)
   }
 })
+charRouter.put("/clean", async(req,res,next) => {
+  try {
+    const newA = []
+    for (const c of db.data.characters) {
+      if(!newA.map(e => e.id).includes(c.id)) {
+        newA.push(c)
+      }
+    }
+    db.data.characters = newA
+    await db.write()
+    res.send(201)
+  } catch (error) {
+    
+  }
+})
 
 charRouter.put("/connect", async (req, res, next) => {
   try {
