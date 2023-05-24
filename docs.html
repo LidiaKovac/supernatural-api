@@ -46,10 +46,18 @@
             onclick="activateTab(event)"> <i class="bi bi-chat-dots"></i> <b> GET </b> random quote</a>
 
           <a class="list-group-item ps-5 text-white border-0 bg-danger fw-bold"> Characters</a>
-          <a class="list-group-item option ps-5 text-white bg-transparent active border-0" onclick="activateTab(event)"
+          <a class="list-group-item option ps-5 text-white bg-transparent border-0" onclick="activateTab(event)"
             href="#allchars"> <i class="bi bi-chat-dots"></i> <b> GET </b> all characters</a>
           <a class="list-group-item option ps-5 text-white bg-transparent border-0" href="#charid"
             onclick="activateTab(event)"> <i class="bi bi-chat-dots"></i> <b> GET </b> character by id</a>
+
+
+            <a class="list-group-item ps-5 text-white border-0 bg-danger fw-bold"> Episodes</a>
+            <a class="list-group-item option ps-5 text-white bg-transparent border-0" onclick="activateTab(event)"
+              href="#eps"> <i class="bi bi-chat-dots"></i> <b> GET </b> all episodes</a>
+            <a class="list-group-item option ps-5 text-white bg-transparent border-0" href="#eps"
+              onclick="activateTab(event)"> <i class="bi bi-chat-dots"></i> <b> GET </b> episode by id</a>
+  
         </ul>
       </div>
       <div class="col-12 col-lg-10 py-5 px-4" id="docs">
@@ -381,13 +389,14 @@
     </div>
 
 
-    <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
+    <div class="offcanvas offcanvas-start" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
       <div class="offcanvas-header">
         <h5 class="offcanvas-title" id="offcanvasExampleLabel">The Supernatural API</h5>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
       </div>
       <div class="offcanvas-body p-0">
         <ul class="list-group position-sticky list-group-flush text-white">
+
           <a class="list-group-item ps-5 text-white border-0 bg-danger fw-bold"> About V1.0</a>
           <a class="list-group-item option ps-5 text-white bg-transparent border-0" onclick="activateTab(event)"
             href="#"> <i class="bi bi-house-fill"></i> Intro</a>
@@ -398,11 +407,20 @@
             href="#all"> <i class="bi bi-chat-dots"></i> <b> GET </b> all quotes</a>
           <a class="list-group-item option ps-5 text-white bg-transparent border-0" href="#random"
             onclick="activateTab(event)"> <i class="bi bi-chat-dots"></i> <b> GET </b> random quote</a>
+
           <a class="list-group-item ps-5 text-white border-0 bg-danger fw-bold"> Characters</a>
-          <a class="list-group-item option ps-5 text-white bg-transparent active border-0" onclick="activateTab(event)"
+          <a class="list-group-item option ps-5 text-white bg-transparent border-0" onclick="activateTab(event)"
             href="#allchars"> <i class="bi bi-chat-dots"></i> <b> GET </b> all characters</a>
           <a class="list-group-item option ps-5 text-white bg-transparent border-0" href="#charid"
             onclick="activateTab(event)"> <i class="bi bi-chat-dots"></i> <b> GET </b> character by id</a>
+
+
+            <a class="list-group-item ps-5 text-white border-0 bg-danger fw-bold"> Episodes</a>
+            <a class="list-group-item option ps-5 text-white bg-transparent border-0" onclick="activateTab(event)"
+              href="#eps"> <i class="bi bi-chat-dots"></i> <b> GET </b> all episodes</a>
+            <a class="list-group-item option ps-5 text-white bg-transparent border-0" href="#eps"
+              onclick="activateTab(event)"> <i class="bi bi-chat-dots"></i> <b> GET </b> episode by id</a>
+
 
         </ul>
       </div>
@@ -413,7 +431,7 @@
     crossorigin="anonymous"></script>
   <script>
     window.onload = async () => {
-      await generateQuote()
+      // await generateQuote()
     }
     const toggleLoading = () => {
       document.querySelector(".spinner-border").classList.toggle("d-none")
@@ -423,24 +441,6 @@
         .querySelectorAll(".list-group-item.option")
         .forEach((el) => el.classList.remove("active"))
       ev.target.classList.add("active")
-    }
-    const generateQuote = async () => {
-      const quoteSpace = document.querySelector("#result")
-      quoteSpace.innerHTML = ""
-      toggleLoading()
-      const res = await fetch(
-        "https://supernatural-quotes-api.cyclic.app/quotes/random"
-      )
-      const quote = await res.json()
-      let counter = 0
-      for (const key in quote) {
-        counter++
-        if (Object.hasOwnProperty.call(quote, key)) {
-          quoteSpace.innerHTML += ` <li class="list-group-item"> <strong> ${quote[key].character}: </strong> ${quote[key].quote} </li>
-                            `
-        }
-      }
-      toggleLoading()
     }
   </script>
 </body>
