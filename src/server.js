@@ -6,6 +6,7 @@ import { fileURLToPath } from "node:url"
 import { JSONFile } from "lowdb/node"
 import cors from "cors"
 import { quotesRouter } from "./services/quotes/index.js"
+import {episodeRouter} from "./services/episodes/index.js"
 import { config } from "dotenv"
 import { charRouter } from "./services/chars/index.js"
 config()
@@ -23,6 +24,7 @@ app.use(cors())
 app.use(express.static("public"))
 app.use("/quotes", quotesRouter)
 app.use("/characters", charRouter)
+app.use("/episodes", episodeRouter)
 
 db.read().then(() => {
   app.listen(process.env.PORT, () => {
