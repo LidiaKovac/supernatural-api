@@ -87,7 +87,7 @@ fetch("https://supernatural-quotes-api.cyclic.app/<span class="text-danger">quot
             document.querySelector("#" + id + "-tab").classList.add("active")
         }
         const writeUrl = async (phrase) => {
-            const endpoints = ["quotes/random", "quotes/all", "characters/all", "characters/:id"]
+            const endpoints = ["quotes/random", "quotes/all", "characters/all", "characters/:id", "episodes/", "episodes/:id"]
             const tail = document.querySelector("pre span")
             let i = 0
             while (true) {
