@@ -43,18 +43,13 @@ episodeRouter.get("/", async (req, res, next) => {
 
 episodeRouter.get("/:id", async (req, res, next) => {
   try {
-    const ep = await db.data.episodes.find(el => el.id === req.params.id)
-    if(ep) {
-        ep.chars.forEach((c,i) => {
-           ep.chars[i] = db.data.characters.find(el => el.id === c)
-        })
-        res.send(ep)
+    const ep = await db.data.episodes.find((el) => el.id === req.params.id)
+    if (ep) {
+      ep.chars.forEach((c, i) => {
+        ep.chars[i] = db.data.characters.find((el) => el.id === c)
+      })
+      res.send(ep)
     } else res.sendStatus(404)
-
-
-
-
-
   } catch (error) {
     next(error)
   }
