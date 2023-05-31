@@ -74,9 +74,12 @@ pre {
     transform: translate(-50%, -50%);
 }
 
-footer {
+a {
+    color: #DC3545;
 }
-
+footer a {
+    color: white
+}
 @media screen and (max-width: 767px) {
     pre {
         overflow-x: auto;
