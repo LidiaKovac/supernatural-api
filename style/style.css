@@ -82,3 +82,10 @@ footer {
         overflow-x: auto;
     }
 }
+
+@media screen and (max-width: 380px ) {
+    h1, h1 strong {
+        font-size: 28px!important;
+    }
+    .col-lg-6 pre {display: none;} 
+}
