@@ -3,7 +3,9 @@ body {
     font-family: Inter, sans-serif;
 }
 
-
+* {
+    box-sizing: border-box;
+}
 nav.navbar {
   min-height: 100px;
 }
@@ -72,7 +74,8 @@ pre {
     transform: translate(-50%, -50%);
 }
 
-
+footer {
+}
 
 @media screen and (max-width: 767px) {
     pre {
