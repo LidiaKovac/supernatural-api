@@ -21,6 +21,7 @@ export const filter = (arr, query) => {
     return (
       (query.season ? el.episode.season === query.season : true) &&
       (query.ep ? el.episode.ep === query.ep : true) &&
+      (query.title ? el.episode.title.toLowerCase() === query.title.toLowerCase() : true) && 
       (query.char
         ? query.char
             .toLowerCase()
