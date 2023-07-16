@@ -1,24 +1,27 @@
 import { Router } from "express"
 import { db } from "../../server.js"
-import { paginate } from "../../utils/index.js"
+import { filter, paginate, populate } from "../../utils/index.js"
 
 export const quotesRouter = Router()
 
 quotesRouter.get("/", async (req, res, next) => {
   try {
     const data = await db.data.quotes
-    let result = []
-    result = paginate(data, req.query.page || 1, req.query.size || 5)
+    const episodes = await db.data.episodes
+    let populated = populate(data, "episode", episodes)
+    let result = filter(populated, req.query)
+
+    // result = paginate(result, req.query.page || 1, req.query.size || 5)
 
     res.send({
       data: result,
       next:
         "https://supernatural-quotes-api.cyclic.app/quotes?page=" +
-        (isNaN((Number(req.query.page) + 1)) ? 2 : (Number(req.query.page) + 1)),
+        (isNaN(Number(req.query.page) + 1) ? 2 : Number(req.query.page) + 1),
       prev:
         Number(req.query.page) > 1
           ? "https://supernatural-quotes-api.cyclic.app/quotes?page=" +
-          (Number(req.query.page) - 1)
+            (Number(req.query.page) - 1)
           : null,
       count: data.length,
     })
