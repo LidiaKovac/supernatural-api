@@ -26,22 +26,20 @@ main,
   top: 0px;
 }
 
-pre {
-  padding: 20px;
-  padding-top: 50px;
-  padding-bottom: 50px;
+pre:not(:has(> code)) {
+  border-left: 3px solid white;
+  padding-left: 20px;
+}
+
+#docs pre code {
+  padding: 20px 50px;
   border-radius: 20px;
   font-family: "Fira Code", monospace;
   overflow: hidden;
-}
-
-#docs pre {
-  padding: 0px;
+  width: fit-content;
   border-radius: 0px;
   border-left: 3px solid white;
-  padding-left: 20px;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-block: 10px;
 }
 
 .tab-pane:not(:first-of-type) {
