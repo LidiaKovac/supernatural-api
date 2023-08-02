@@ -6,8 +6,6 @@ export const episodeRouter = Router()
 
 episodeRouter.get("/", async (req, res, next) => {
   try {
-    console.log(req.query)
-    // const props = ["name", "img", "actor", "episodes", "occupation"]
     const data = await db.data.episodes
     let result = []
 
