@@ -7,7 +7,6 @@ export const charRouter = Router()
 
 charRouter.get("/", async (req, res, next) => {
   try {
-    console.log(req.query)
     // const props = ["name", "img", "actor", "episodes", "occupation"]
     const data = await db.data.characters
     let result = []
@@ -43,6 +42,7 @@ charRouter.get("/", async (req, res, next) => {
             (Number(req.query.page) - 1)
           : null,
       count: data.length,
+      resultCount: result.length
     })
   } catch (error) {
     next(error)
@@ -65,38 +65,38 @@ charRouter.get("/", async (req, res, next) => {
 //   }
 // })
 
-charRouter.put("/location", async (req, res, next) => {
-  try {
-    const chars = await db.data.characters
-    for (const char of chars) {
-      let res = await fetch(
-        "http://www.supernaturalwiki.com/" +
-          char.name.replaceAll("'", "%27").replaceAll("&", "%26").replaceAll()
-      )
-      let txt = await res.text()
-      const parsed = new DomParser().parseFromString(txt)
-      let location = parsed.getElementsByTagName("table")[0]?.getElementsByTagName("td")[
-        parsed
-          .getElementsByTagName("td")
-          .findIndex((el) => el?.innerHTML.includes("Location")) + 1
-      ]?.innerHTML
-      if(location?.includes("<a")) {
-        location = parsed.getElementsByTagName("table")[0].getElementsByTagName("td")[
-          parsed
-            .getElementsByTagName("td")
-            .findIndex((el) => el?.innerHTML.includes("Location")) + 1
-        ].getElementsByTagName("a")[0]?.innerHTML
-      }
-      console.log(char.name, location)
-      char.location = location || "Unknown"
-    }
-    db.data.characters = chars
-    db.write()
-  } catch (error) {
-    next(error)
-    console.log(error)
-  }
-})
+// charRouter.put("/location", async (req, res, next) => {
+//   try {
+//     const chars = await db.data.characters
+//     for (const char of chars) {
+//       let res = await fetch(
+//         "http://www.supernaturalwiki.com/" +
+//           char.name.replaceAll("'", "%27").replaceAll("&", "%26").replaceAll()
+//       )
+//       let txt = await res.text()
+//       const parsed = new DomParser().parseFromString(txt)
+//       let location = parsed.getElementsByTagName("table")[0]?.getElementsByTagName("td")[
+//         parsed
+//           .getElementsByTagName("td")
+//           .findIndex((el) => el?.innerHTML.includes("Location")) + 1
+//       ]?.innerHTML
+//       if(location?.includes("<a")) {
+//         location = parsed.getElementsByTagName("table")[0].getElementsByTagName("td")[
+//           parsed
+//             .getElementsByTagName("td")
+//             .findIndex((el) => el?.innerHTML.includes("Location")) + 1
+//         ].getElementsByTagName("a")[0]?.innerHTML
+//       }
+//       console.log(char.name, location)
+//       char.location = location || "Unknown"
+//     }
+//     db.data.characters = chars
+//     db.write()
+//   } catch (error) {
+//     next(error)
+//     console.log(error)
+//   }
+// })
 
 charRouter.get("/:id", async (req, res, next) => {
   try {

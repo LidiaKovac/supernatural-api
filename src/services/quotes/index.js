@@ -11,7 +11,7 @@ quotesRouter.get("/", async (req, res, next) => {
     let populated = populate(data, "episode", episodes)
     let result = filter(populated, req.query)
 
-    // result = paginate(result, req.query.page || 1, req.query.size || 5)
+    result = paginate(result, req.query.page || 1, req.query.size || 5)
 
     res.send({
       data: result,
@@ -21,9 +21,10 @@ quotesRouter.get("/", async (req, res, next) => {
       prev:
         Number(req.query.page) > 1
           ? "https://supernatural-quotes-api.cyclic.app/quotes?page=" +
-            (Number(req.query.page) - 1)
+          (Number(req.query.page) - 1)
           : null,
       count: data.length,
+      resultCount: result.length
     })
   } catch (error) {
     next(error)
