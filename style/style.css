@@ -42,12 +42,6 @@ pre:not(:has(> code)) {
   margin-block: 10px;
 }
 
-.tab-pane:not(:first-of-type) {
-  /* width: 100%; */
-}
-
-.col-6 nav {
-}
 
 #result {
   padding: 50px;
