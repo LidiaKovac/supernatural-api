@@ -61,3 +61,16 @@ charRouter.get("/:id", async (req, res, next) => {
     console.error(error)
   }
 })
+
+charRouter.get("/names/:name", async (req, res, next) => {
+  try {
+    const data = await db.data.characters.find(
+      (char) => char.name.toLowerCase() === req.params.name.toLowerCase()
+    )
+    if (data) res.send(data)
+    else res.sendStatus(404)
+  } catch (error) {
+    next(error)
+    console.error(error)
+  }
+})
