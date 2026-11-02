@@ -1,4 +1,3 @@
 User-agent: *
-Disallow: 
-Disallow: /cgi-bin/
-Sitemap: https://lidiakovac.github.io/supernatural-api/public/sitemap.xml
+Allow: /
+Sitemap: https://api.lidiakovac.it/sitemap.xml
